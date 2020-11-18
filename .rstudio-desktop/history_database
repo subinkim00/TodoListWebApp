@@ -1,0 +1,1998 @@
+1597081570008:1 + 2
+1597083799634:setwd("~/Desktop/languageR")
+1597083836877:verbs.txt
+1597083930608:verbs = read.table("data/verbs", header = TRUE)
+1597083971642:Rdata <- readRDS("~/Desktop/languageR/data/Rdata.rds")
+1597083973064:View(Rdata)
+1597084030019:verbs = read.table("data/Rdata.rds/verbs", header = TRUE)
+1597084063329:verbs = read.table("Rdata.rds/verbs", header = TRUE)
+1597084300281:verbs = readRDS("verbs")
+1597084336957:data <- readRDS("~/Desktop/languageR/Meta/data.rds")
+1597084339807:View(data)
+1597084362728:package <- readRDS("~/Desktop/languageR/Meta/package.rds")
+1597084365549:View(package)
+1597084392048:package <- readRDS("~/Desktop/languageR/Meta/package.rds")
+1597084394782:View(package)
+1597084412395:Rd <- readRDS("~/Desktop/languageR/Meta/Rd.rds")
+1597084413998:View(Rd)
+1597084441437:links <- readRDS("~/Desktop/languageR/Meta/links.rds")
+1597084477899:write.table(verbs, file = "/users/harald/dativeS.txt") # MacOSX
+1597084534108:verbs = read.table("~/Desktop/languageR/dativeS.txt", header = TRUE)
+1597084597606:View(data)
+1597084680065:verbs = write.table(verbs, file = "/~/Desktop/languageR/dativeS.txt") # MacOSX
+1597084885403:verbs = write.table(verbs, file = "/~/Desktop/languageR/dativeS.txt")
+1597084909197:install.packages("languageR")
+1597084986901:require(languageR)
+1597085055572:setwd("~Documents/R")
+1597085076147:setwd("~/Documents/R")
+1597085132965:write.table(verbs, file = "/users/harald/dativeS.txt")
+1597085174535:require(languageR)
+1597085247790:write.table(verbs, file = "/users/harald/dativeS.txt") # MacOSX
+1597085326802:write.table(verbs, file = "/Desktop/languageR/dativeS.txt") # MacOSX
+1597085368099:write.table(verbs, file = "verbs") # MacOSX
+1597085372460:verbs
+1597087984074:require(languageR)
+1597088026331:verbs = write.table("verbs", header = T)
+1597088056633:> require(languageR)
+1597088056640:> verbs = write.table(file = "verbs", header = T)
+1597088070884:require(languageR)
+1597088077781:verbs = write.table(file = "verbs", header = T)
+1597088088082:verbs = write.table("verbs", T)
+1597088109485:require(languageR)
+1597088145355:verbs = read.table(file = "verbs", header = TRUE)
+1597088534123:head(verbs)
+1597088553043:head(verbs, n = 10)
+1597088829045:write.table(verbs10, "verbs10")
+1597088852827:verbs10 = head(verbs, n = 10)
+1597088863709:write.table(verbs10, "verbs10")
+1597088904494:verbs10[1, 5]
+1597089965606:rs = c(638, 799, 390, 569, 567, 605, 55, 700, 206, 380)
+1597089973927:verbs.rs = verbs[rs, ]
+1597089982793:verbs.rs[1, ]
+1597089992234:verbs.rs["638", ]
+1597099325765:verbs.xtabs =
+1597099360274:xtabs(~ AnimacyOfRec + AnimacyOfTheme + RealizationOfRec, + data = verbs)
+1597099391739:verbs.xtabs =
+1597099391744:+ xtabs(~ AnimacyOfRec + AnimacyOfTheme + RealizationOfRec, + data = verbs)
+1597099405164:verbs.xtabs =
+1597099425399:xtabs(~ AnimacyOfRec + AnimacyOfTheme + RealizationOfRec,)
+1597099482022:verbs.xtabs =
+1597099482028:xtabs(~ AnimacyOfRec + AnimacyOfTheme + RealizationOfRec, data = verbs)
+1597099488410:verbs.xtabs
+1597105661612:rm()
+1597105682475:rm(verbs, verbs.rs, verbs.xtabs)
+1597105690228:rm(verbs)
+1597105694867:View(verbs10)
+1597105704187:rm(verbs10)
+1597105708819:rm(rs)
+1597105731893:require(languageR)
+1597105824517:meta = read.table("spanish.info", T)
+1597105872792:> require(languageR)
+1597105877201:require(languageR)
+1597105887751:read.table("spanish", T)
+1597105914382:read.table(file = "spanish", T)
+1597105979000:read.table(file = "spanish", header = TRUE)
+1597106007024:meta = read.table("spanish", T)
+1597106020009:read.table("spanishMeta", T)
+1597106036203:read.table("verbs", T)
+1597106074154:setwd("~/Desktop/languageR")
+1597106082713:require(languageR)
+1597106117869:Rdata <- readRDS("~/Desktop/languageR/data/Rdata.rds")
+1597106122467:View(Rdata)
+1597106137094:Rdata[["spanish"]]
+1597106179461:meta = read.table(file = "spanish", header = TRUE)
+1597106206735:write.table(meta, "spanish")
+1597106219920:meta = read.table(file = "spanishMeta", header = TRUE)
+1597106239412:View(Rdata)
+1597106265892:require(languageR)
+1597106303832:read.table("spanish.info.txt", header = TRUE)
+1597106316965:meta = read.table("spanish.info.txt", header = TRUE)
+1597106331047:meta = read.table("spanish.info", header = TRUE)
+1597106336893:meta = read.table("spanish", header = TRUE)
+1597106348049:meta = read.table("Spanish", header = TRUE)
+1597106415432:verbs = read.table("verbs", header = TRUE)
+1597106430059:verbs = read.table(file = "verbs", header = TRUE)
+1597106447410:download.packages(languageR)
+1597106471548:install.packages(languageR)
+1597106486008:installed.packages()
+1597106547372:setwd("~/Documents/R")
+1597106557809:require(languageR)
+1597106572521:verbs = read.table("verbs", TRUE)
+1597106574603:verbs
+1597106591530:meta = read.table("spanish", TRUE)
+1597106622708:verbs = read.table("verbs", TRUE)
+1597106633868:verbs.head()
+1597106638567:head(verbs)
+1597106677127:meta = read.table("spanish", TRUE)
+1597106694347:meta = read.table("spanishMeta", TRUE)
+1597106702067:meta = read.table("spanishFunctionWords", TRUE)
+1597106718931:meta = read.table("ratings", TRUE)
+1597106739048:View(verbs)
+1597106744560:View(verbs)
+1597106761538:View(spanish)
+1597106783749:meta = read.table("spanish", TRUE)
+1597106798452:meta = read.table("/languageR/spanish", TRUE)
+1597106932530:library(languageR)
+1597106935504:meta = read.table("spanish", TRUE)
+1597106953067:View(spanish)
+1597107027462:View(spanish)
+1597107112779:write.table(meta, "spanish")
+1597107295665:data.table("spanish")
+1597107299752:View(spanish)
+1597107309316:data("spanish")
+1597107328167:meta = read.table("spanish", TRUE)
+1597107343917:meta = read.table(data("spanish"), TRUE)
+1597107361782:spanish = data("spanish")
+1597107370144:meta = read.table(spanish, TRUE)
+1597107377091:meta = read.table("spanish", TRUE)
+1597107656263:read("spanish", TRUE)
+1597107691327:read.table("spanish", TRUE)
+1597107777638:data(package = "languageR")
+1597107787972:meta = read.table("spanish", TRUE)
+1597107801106:meta = as.data.frame(spanish)
+1597107803342:meta
+1597107932093:library("languageR")
+1597107954427:meta = read.table("spanish", TRUE)
+1597107972358:verbs = read.table("verbs", TRUE)
+1597108004149:setwd("~/Documents/R")
+1597108031644:setwd("~/Desktop/languageR")
+1597108083313:install.packages(libraryR)
+1597108091325:library("R")
+1597108103103:library("libraryR")
+1597108120012:install.packages("languageR")
+1597108140348:library("languageR")
+1597108149345:require("languageR")
+1597108251494:setwd("~/Desktop/languageR")
+1597108322614:meta = read.table(spanish, TRUE)
+1597108331946:meta = read.table("spanish", TRUE)
+1597108401523:meta = read.table(file.choose(spanish), TRUE)
+1597108426004:View(spanish)
+1597108459271:meta = read.table(file.choose(spanish), TRUE)
+1597108477359:meta = read.table(package.choose(spanish), TRUE)
+1597108547307:setwd("~/Desktop/languageR/R")
+1597108561342:meta = read.table("spanish", TRUE)
+1597108648268:save.image("/Volumes/RStudio-1.3.1056/Exercises.RData")
+1597108687703:setwd("~/Desktop/languageR/data")
+1597108703806:meta = read.table("spanish", TRUE)
+1597108715909:verbs = read.table("verbs", TRUE)
+1597108732971:View(shrinkage)
+1597108740560:data(spanish)
+1597108861222:setwd("~/Desktop/languageR")
+1597108883788:package <- readRDS("~/Desktop/languageR/Meta/package.rds")
+1597108894997:package
+1597108905371:meta = read.table("spanish", TRUE)
+1597108912497:data <- readRDS("~/Desktop/languageR/Meta/data.rds")
+1597108917076:data
+1597108958634:paths <- readRDS("~/Desktop/languageR/help/paths.rds")
+1597108962635:paths
+1597109000338:read.table("/Volumes/Temp/tmp/RtmpgHlzBD/R.INSTALLe85633dd33aa/languageR/man/spanish.Rd", TRUE)
+1597109198953:data
+1597109218191:spanish = data("spanish")
+1597109358631:setwd("~/Documents/R")
+1597109395140:languageR
+1597109409194:packageStatus(languageR)
+1597109419505:packageStatus("languageR")
+1597109445037:meta = read.table("/languageR/spanish", TRUE)
+1597109467438:load(languageR)
+1597109474709:installed.packages()
+1597109531934:require(languageR)
+1597109531940:verbs = read.table(file = "verbs", header = TRUE)
+1597109540110:head(verbs)
+1597109571469:meta = read.table(file = "spanish", header = TRUE)
+1597109589033:require(languageR)
+1597109618236:require(languageR)
+1597109618237:meta = read.table(file = "spanish", header = TRUE)
+1597109627529:View(spanish)
+1597109628857:View(spanish)
+1597109629872:View(spanish)
+1597109630513:View(spanish)
+1597109632273:View(spanish)
+1597109647773:View(regularity)
+1597109650311:View(spanish)
+1597109656231:View(ver)
+1597109656729:View(verbs)
+1597109760320:install.packages("languageR")
+1597109774493:library(languageR)
+1597109781073:require(languageR)
+1597109876419:verbs = read.table("verbs", TRUE)
+1597109951672:verbs = read.table(file = "verbs", header = TRUE)
+1597245938124:write.table(verbs, "verbs")
+1597245942745:verbs
+1597245983572:meta = read.table("spanish", TRUE)
+1597246003140:meta = read.table("spanish", TRUE)
+1597246033064:meta = read.table(file = "spanish", header = TRUE)
+1597246062386:write.table(meta, "spanish")
+1597246080931:meta = 5
+1597246088726:write.table(meta, "spanish")
+1597246090441:meta
+1597246107266:verbs = 5
+1597246109144:verbs
+1597246131578:write.table(verbs, "verbs")
+1597246133272:verbs
+1597246152721:help()
+1597246245832:verbs = read.table("verbs", TRUE)
+1597246247847:verbs
+1597246277119:View(spanish)
+1597246326683:View(shrinkage)
+1597246376793:help("spanish")
+1597246386505:data("spanish")
+1597246409669:spanish
+1597246422787:spanish = spanish
+1597246425077:spanish
+1597246524366:meta = spanish
+1597246525109:meta
+1597246623284:colnames = colnames(meta)
+1597246625401:colnames
+1597246718426:numrows = nrow(meta)
+1597246721017:numrows
+1597246760962:View(spanish)
+1597246767172:View(spanishFunctionWords)
+1597246891291:View(spanishMeta)
+1597246905985:spanishMeta
+1597246911644:meta = spanishMeta
+1597246913900:meta
+1597246928102:colnames = colnames(meta)
+1597246932333:colnames
+1597246944368:numrows = nrows(meta)
+1597246952914:numrows = nrow(meta)
+1597246955545:numrows
+1597247080432:meta$Author
+1597247158384:xtabs(~ Author, data = meta)
+1597254805677:meta.pubdate = meta$PubDate
+1597254809219:meta.pubdate
+1597254815582:mean(meta.pubdate)
+1597255036805:meta[order(meta$PubDate, meta$Nwords)]
+1597255086463:meta[order(meta$PubDate, meta$Nwords),]
+1597255217105:tapply(meta, meta$Author, mean)
+1597255227182:tapply(meta, meta$Author, mean())
+1597255250558:tapply(meta$PubDate, meta$Author, mean)
+1597255304993:aggregate(meta$PubDate, meta$Author, mean)
+1597255354476:aggregate(meta$PubDate, list(meta$Author), mean)
+1597255419671:meta[order(meta$YearOfBirth, meta$Nwords),]
+1597255462301:meta.pubdate = meta$PubDate
+1597255529928:sort(meta.pubdate, TRUE)
+1597255542803:meta.pubdate =  sort(meta.pubdate, TRUE)
+1597255610906:sort(row.names(meta))
+1597255744358:meta[meta$PubDate < 1980,]
+1597255842409:sum(meta$PubDate) / length(meta)
+1597255866493:mean(meta$PubDate)
+1597255900099:sum(meta$PubDate) / length(meta$PubDate)
+1597256060512:composer = data.frame(Author = c("Cela", "Mendoza", "VargasLLosa"), Favorite = c("Stravinsky", "Bach", "Villa-Lobos"))
+1597256067424:composer
+1597256123177:merge(meta, composer)
+1597256187957:u
+1597256205253:meta
+1597256267227:meta = merge(meta, composer, by.x = "FullName", by.y = "Author")
+1597256269699:meta
+1597258239335:ratings
+1597258261178:colnames(ratings)
+1597258708341:barplot(xtabs(~ ratings$Length), xlab = "word length", col = "grey")
+1597258896011:install.packages("MASS")
+1597258911571:library(MASS)
+1597259032518:truehist(ratings$Length, xlab = "word length", col = "grey")
+1597259061946:barplot(ratings$Length, xlab = "word length", col = "grey")
+1597259089740:barplot(xtabs(~ ratings$Length), xlab = "word length", col = "grey")
+1597259118827:truehist(ratings$Length, xlab = "word length", col = "grey")
+1597331685175:verbs.xtabs = xtabs(~ AnimacyOfRec + RealizationOfRec, data = verbs[verbs$AnimacyOfTheme != "animate", ])
+1597331752481:verbs.xtabs = xtabs( ˜ AnimacyOfRec + RealizationOfRec, data = verbs[verbs$AnimacyOfTheme != "animate", ])
+1597331770691:verbs.xtabs = xtabs( ~ AnimacyOfRec + RealizationOfRec, data = verbs[verbs$AnimacyOfTheme != "animate", ])
+1597331819186:verbs
+1597331822945:verbs
+1597331836014:View(verbs)
+1597331841108:View(verbs)
+1597331874476:library(languageR)
+1597331883572:verbs
+1597331938699:verbs.xtabs = xtabs(~ AnimacyOfRec + RealizationOfRec, data = verbs[verbs$AnimacyOfTheme != "animate", ])
+1597331943179:verbs.xtabs
+1597333073354:par(mfrow = c(1, 2))
+1597333096112:barplot(verbs.xtabs, legend.text=c("anim", "inanim"))
+1597333134634:barplot(verbs.xtabs, beside = T, legend.text = rownames(verbs.xtabs))
+1597333192011:barplot(verbs.xtabs, legend.text=c("anim", "inanim"))
+1597333199560:warnings()
+1597340576244:par(mfrow = c(1, 1))
+1597340753605:xtabs = xtabs(~ warlpiri$AnimacyOfSubject + warlpiri$WordOrder + warlpiri$AgeGroup, data = warlpiri)
+1597340757457:xtabs
+1597340776349:mosaicplot(xtabs)
+1597340795556:mosaicplot(xtabs)
+1597340822213:xtabs = xtabs(~ AnimacyOfSubject + WordOrder + AgeGroup, data = warlpiri)
+1597340830954:mosaicplot(xtabs)
+1597340937893:xtabs = xtabs(~ CaseMarking + AnimacyOfSubject + WordOrder + AgeGroup, data = warlpiri)
+1597340943508:mosaicplot(xtabs)
+1597341106618:heid2 = aggreagte(heid$RT, list(heid$Word), mean)
+1597341119238:heid2 = aggregate(heid$RT, list(heid$Word), mean)
+1597341137586:colnames(heid2) = c("Word", "MeanRT")
+1597341173447:heid2 = merge(heid2, unique(heid[,c("Word", "BaseFrequency")]), by.x = "Word", by.y = "Word")
+1597341187454:exp(heid2)
+1597341209801:exp(heid2$MeanRT)
+1597341215384:exp(heid2$BaseFrequency)
+1597341232569:rt = exp(heid2$MeanRT)
+1597341244172:bf = exp(heid2$BaseFrequency)
+1597341327282:par(mfrow = c(1, 2))
+1597341328993:scatterplot(rt, bf)
+1597341346806:plot(rt, bf)
+1597341376758:plot(heid2$MeanRT, heid2$BaseFrequency)
+1597341411696:plot(bf, rt)
+1597341424019:plot(heid2$BaseFrequency, heid2$MeanRT)
+1597341838533:library(lattice)
+1597341856795:source("functions/xylowness.r")
+1597341878460:View(lexdec)
+1597342099016:xylowess.fnc(RT ~ Trial | equal.count(Subject), data = lexdec)
+1597342151253:xylowess.fnc(RT ~ Trial | Subject, data = lexdec)
+1597342168135:par(mfrow = c(1, 1))
+1597342173002:xylowess.fnc(RT ~ Trial | Subject, data = lexdec)
+1597342205773:xylowess.fnc(RT ~ Trial | Subject, data = lexdec, ylab = "log RT")
+1597342304459:dev.off()
+1597342309790:xylowess.fnc(RT ~ Trial | Subject, data = lexdec, ylab = "log RT")
+1597342440998:truehist(english$RTnaming)
+1597342456579:library(MASS)
+1597342461585:truehist(english$RTnaming)
+1597342494161:truehist(english$RTnaming, xlab = "Naming Latency")
+1597342533982:par(mfrow = c(1, 2))
+1597342538500:truehist(english$RTnaming, xlab = "Naming Latency")
+1597342545951:truehist(english$RTnaming, xlab = "Naming Latency")
+1597342565842:density(english$RTnaming)
+1597342582749:density = density(english$RTnaming)
+1597342607624:plot(density)
+1597342673651:par(mfrow = c(1,1))
+1597342779278:bwplot(RTnaming ~ Voice | AgeSubject, data = english)
+1597359974020:setwd("~/Desktop/ContentDescriptionAnalysis_Subin_Aug2020")
+1597360400415:ToCheckHeadNouns <-ddply((ddply(Data, .(Dyad, PictureName, HeadNoun), nrow)), .(PictureName, Dyad), summarise, HeadNouns=toString(HeadNoun))
+1597360587174:library(ggplot2)
+1597360587857:library(plyr)
+1597360587987:library(dplyr)
+1597360588009:library(MASS)
+1597360588059:library(Hmisc)
+1597360589942:library(lme4)
+1597360590309:library(reshape)
+1597360590355:library(data.table)
+1597360590372:library(boot)
+1597360590399:library(stringr)
+1597360590416:library(arsenal)
+1597360605532:ToCheckHeadNouns <-ddply((ddply(Data, .(Dyad, PictureName, HeadNoun), nrow)), .(PictureName, Dyad), summarise, HeadNouns=toString(HeadNoun))
+1597360645379:rm(list=ls(all=TRUE))
+1597360683018:Coding_data_22 <-read.table('./Recordings/IndividualTrials/DescriptionsDefiniteness_Data.txt', header=TRUE)
+1597360683025:TrialDesignVideoCode_dat_22 <-read.table("TrialDesignVideoCode_ALL_22pairs.txt", header=TRUE)
+1597360683038:ParticipantsDemographBooklet <- read.table("ParticipantsSESPersonalityADD_IlaSpring2018.txt", header=TRUE)
+1597360683043:## BEGIN: removing the 2 pairs that we excluded, D13 and D15
+1597360683044:nrow(TrialDesignVideoCode_dat_22)
+1597360683046:TrialDesignVideoCode_dat_21 <- TrialDesignVideoCode_dat_22[TrialDesignVideoCode_dat_22$Dyad!="D13", ]
+1597360683047:TrialDesignVideoCode_dat <- TrialDesignVideoCode_dat_21[TrialDesignVideoCode_dat_21$Dyad!="D15", ]
+1597360683048:TrialDesignVideoCode_dat$Dyad <- factor(TrialDesignVideoCode_dat$Dyad)
+1597360683049:Coding_data_21 <- Coding_data_22[substr(Coding_data_22$Filename, 1, 3)!="D13", ]
+1597360683050:Coding_data <- Coding_data_21[substr(Coding_data_21$Filename, 1, 3)!="D15", ]
+1597360683050:## END: removing the 2 pairs that we excluded, D13 and D15
+1597360683051:nrow(TrialDesignVideoCode_dat)
+1597360683052:nrow(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceCode=="MISSED", ])
+1597360683053:TrialDesignVideoCode_dat$ChoiceEval <- ifelse(TrialDesignVideoCode_dat$ChoiceCode=="MISSED", "missed", ifelse(substr(TrialDesignVideoCode_dat$ChoiceCode, 1, 4)==substr(TrialDesignVideoCode_dat$PictureCode, 1, 4), "correct", "incorrect"))
+1597360683054:TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="missed", ]
+1597360683063:## BEGIN: inspection of errors ##
+1597360683064:nrow(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ])
+1597360683066:# write.table((TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ]), "ErrorsToCheck.txt")
+1597360683067:## number of errors for each of the 8 dyads with errors
+1597360683069:ddply(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ], .(Dyad), nrow)
+1597360683084:#D05  1
+1597360683085:#D06  6
+1597360683085:#D10  7
+1597360683086:#D11  6
+1597360683086:#D16  5
+1597360683086:#D17  1
+1597360683086:#D18  3
+1597360683086:#D20  4
+1597360683087:## Only 8 out of the 20 dyads made any errors. Can a dyad's tendency to make errors correlated with their reuse strategy?
+1597360683087:ddply(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ], .(Dyad, Mention), nrow)
+1597360683097:ddply(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ], .(Mention), nrow)
+1597360683100:#Mention V1
+1597360683100:#1       1 23
+1597360683101:#2       2 10     ==> so very few errors on mention 2, not a factor that can be modeled in the regression on Reuse
+1597360683101:## END: inspection of errors before demographics added ##
+1597360683101:nrow(Coding_data)
+1597360683101:nrow(TrialDesignVideoCode_dat)
+1597360683102:Coding_data$Dyad <- substring(Coding_data$Filename, 1, 3)
+1597360683102:Coding_data$TrialNbDesign <- substr(Coding_data$Filename, 9, 12)
+1597360683102:## BEGIN: Dealing with the fact that the trial numbers in TrialDesignVideoCode_dat are 1-1, as opposed to 1-01
+1597360683103:TrialDesignVideoCode_dat <- TrialDesignVideoCode_dat %>% mutate(TrialNb= ifelse(nchar(as.character(TrialDesignVideoCode_dat$TrialNb))==3, paste(substr(TrialDesignVideoCode_dat$TrialNb, 1, 2), substr(TrialDesignVideoCode_dat$TrialNb, 3, 3), sep="0"), as.character(TrialNb)))
+1597360683120:TrialDesignVideoCode_dat$TrialNb <- as.character(TrialDesignVideoCode_dat$TrialNb)
+1597360683120:## END: Dealing with the fact that the trial numbers in TrialDesignVideoCode_dat are 1-1, as opposed to 1-01
+1597360683120:# Here, I add the lag information between mention 1 and mention 2
+1597360683120:TrialDesignVideoCode_datC<- ddply(TrialDesignVideoCode_dat, .(Dyad, PictureCode), function(x){
+1597360683121:for(i in 1:nrow(x)){
+1597360683121:y <- x[x$Mention==1, ]
+1597360683121:z <- x[x$Mention==2, ]
+1597360683122:for(j in 1:nrow(y)){
+1597360683122:mention1position <- substr(y[j, c("TrialNb")], 3, 5)
+1597360683123:}
+1597360683123:for(k in 1:nrow(z)){
+1597360683123:mention2position <- substr(z[k, c("TrialNb")], 3, 5)
+1597360683124:}
+1597360683124:if(x[i, c("Mention")]==1){
+1597360683124:x[i, c("Lag")] <- 0
+1597360683125:}
+1597360683125:else{
+1597360683126:x[i, c("Lag")]<- as.numeric(mention2position)-(as.numeric(mention1position)+1)
+1597360683127:}
+1597360683127:}
+1597360683128:return(x)
+1597360683128:})
+1597360683666:Data <- merge(Coding_data, TrialDesignVideoCode_datC, by.x=c("Dyad", "TrialNbDesign"),
+1597360683667:by.y=c("Dyad", "TrialNb"), all.x=TRUE, all.y=FALSE)
+1597360683673:## Preparing demographics data on participants to merge with trial accuracy data
+1597360683673:## Below, I assign a SES level based on Education. First, I average
+1597360683673:## the educ levels of both parents; when the info for one of them is
+1597360683673:## missing, I keep only the one present. If both are missing, it's NaN
+1597360683674:ParticipantsDemographBooklet$EducMotherCode <- as.numeric(ParticipantsDemographBooklet$EducMotherCode)
+1597360683674:ParticipantsDemographBooklet$EducFatherCode <- as.numeric(ParticipantsDemographBooklet$EducFatherCode)
+1597360683674:## ParticipantsDemograph[, c("ID", "EducMotherCode", "EducFatherCode")]
+1597360683675:## I average the 2 codes for each parent when I have them; when I have a code for only one, it keeps this code only.
+1597360683675:ParticipantsDemographBooklet$EducParents <- rowMeans(subset(ParticipantsDemographBooklet, select =
+1597360683675:c(EducMotherCode, EducFatherCode)), na.rm = TRUE)
+1597360683676:## Then I apply the following rule: If the participant is younger than 30
+1597360683676:## use the parent's education level as proxy for SES; if older than 30
+1597360683677:## use the particiant's own level of education as proxy for SES. This
+1597360683677:## leaves 4 participants with no SES level (one declined answering any
+1597360683677:## of these questions anyway...
+1597360683677:ParticipantsDemographBooklet$Age <- as.numeric(as.character(ParticipantsDemographBooklet$Age))
+1597360683678:ParticipantsDemographBooklet$SESEduc <- ifelse(ParticipantsDemographBooklet$Age<30, ParticipantsDemographBooklet$EducParents,
+1597360683678:ifelse(ParticipantsDemographBooklet$Age>=30, ParticipantsDemographBooklet$EducSelfCode, "ERROR"))
+1597360683678:nrow(ParticipantsDemographBooklet[ParticipantsDemographBooklet$SESEduc=="ERROR" | ParticipantsDemographBooklet$SESEduc=="NaN", ])
+1597360683679:## 3 participants (out of 44) do not have a SES level established following the scheme described above; one is one of the people of
+1597360683679:## Dyad 13, which got excluded. The other ones are D10_A (who didn't specify educ level for themselves or their parents), and D19_A,
+1597360683679:## who is 19 but didn't specify their parent's education.
+1597360683679:ParticipantsDemographBooklet[substr(ParticipantsDemographBooklet$ID, 1, 3)=="D13", ]
+1597360683682:# rows 25 & 26
+1597360683683:ParticipantsDemographBooklet[substr(ParticipantsDemographBooklet$ID, 1, 3)=="D15", ]
+1597360683685:# rows 29 & 30
+1597360683686:## BEGIN: WHAT IS THE DISTRIBUTION OF AGES AND SESEduc IN THE SAMPLE?
+1597360683686:ParticipantsDemograph_20 <- ParticipantsDemographBooklet[c(1:24, 27:28, 31:44), ]
+1597360683687:max(ParticipantsDemograph_20$Age) #60
+1597360683688:min(ParticipantsDemograph_20$Age) #19
+1597360683688:median(ParticipantsDemograph_20$Age) #31
+1597360683689:table(ParticipantsDemograph_20$SESEduc, useNA="always")
+1597360683690:#  1    2  2.5    3  3.5    4  4.5    5  5.5    6  NaN <NA>
+1597360683690:#  5   12    1    4    2    1    1    8    1    3    1    1
+1597360683690:median(ParticipantsDemograph_20$SESEduc, na.rm=TRUE)
+1597360683690:# 3
+1597360683691:## END: WHAT IS THE DISTRIBUTION OF AGES AND SESEduc IN THE SAMPLE?
+1597360683691:##########################################################
+1597360683691:#### BEGIN: Preparing data on descriptions ###############
+1597360683691:##########################################################
+1597360683691:Data <- merge(Coding_data, TrialDesignVideoCode_datC, by.x=c("Dyad", "TrialNbDesign"),
+1597360683692:by.y=c("Dyad", "TrialNb"), all.x=TRUE, all.y=FALSE)
+1597360683692:table(Data$ChoiceEval, useNA="always")
+1597360683693:## The missed trials are no longer represented because there were no descriptions produced on those trials!!
+1597360683694:##write.table(Data, "ToFindNA.txt")
+1597360683694:Data$Role <- ifelse(substr(Data$ContributingSpeaker, 8, 8)==Data$DirectorID, "director",
+1597360683695:ifelse(substr(Data$ContributingSpeaker, 8, 8)==Data$MatcherID, "matcher", "ERROR"))
+1597360683696:nrow(Data[Data$Role=="ERROR", ])
+1597360683696:#BEGIN: Checking that Definiteness and Description are segments that align.
+1597360683696:Data$DescripDefCheck <- ifelse(Data$Onset_sec==Data$Onset_sec_Def, "correct", "ERROR")
+1597360683697:nrow(Data[Data$DescripDefCheck=="ERROR", ])
+1597360683697:# if no issue, delete the column
+1597360683697:Data$DescripDefCheck <- NULL
+1597360683698:#END: Checking that Definiteness and Description are segments that align.
+1597360683698:# Adding an identifier to each speaker
+1597360683698:Data$DyadSpeaker <- paste(Data$Dyad, substr(Data$ContributingSpeaker, 8, 8), sep="-")
+1597360683700:# Distribution of descriptions across roles and mentions
+1597360683702:#BEGIN: checking that there is at least 1 description per trial for director; if not (and those trials are not missing),
+1597360683703:#       the description may have been coded on the wrong tier.
+1597360683704:xtabs(~ Dyad + TrialNbDesign, data=Data[Data$Role=="director" & substr(Data$TrialNbDesign, 1, 1)=="1", ])
+1597360683706:xtabs(~ Dyad + TrialNbDesign, data=Data[Data$Role=="director" & substr(Data$TrialNbDesign, 1, 1)=="2", ])
+1597360683708:#END: checking that there is at least 1 description per trial for director.
+1597360683708:xtabs(~Role + Mention, Data)
+1597360683710:#          Mention
+1597360683710:#Role         1   2
+1597360683710:#  director 806 756
+1597360683710:#  matcher   67  33
+1597360683711:#          92%  96%
+1597360683711:xtabs(~ Dyad + Role + Mention, Data)
+1597360683712:prop.table((xtabs(~ Dyad + Role, Data[Data$Mention=="1", ])), 1)
+1597360683713:prop.table((xtabs(~ Dyad + Role, Data[Data$Mention=="2", ])), 1)
+1597360683715:# how many different descriptions (on average) did each dyad (aggregating between directors and matchers) use on each mention?
+1597360683715:ddply((ddply(Data, .(Dyad, Mention, PictureCode), nrow)), .(Dyad, Mention), summarise, MeanDescripNb = mean(V1))
+1597360683716:# if I average across dyads:
+1597360683716:ddply(ddply((ddply(Data, .(Dyad, Mention, PictureCode), nrow)), .(Dyad, Mention), summarise, MeanDescripNb = mean(V1)), .(Mention), summarise, mean = mean(MeanDescripNb))
+1597360683717:##Mention     mean
+1597360683717:##1       1 1.37
+1597360683718:##2       2 1.23
+1597360683718:## Distribution of the number of descriptions / expressions used by each dyad on mention 1
+1597360683718:table((ddply(Data[Data$Mention=="1", ], .(Dyad, Mention, PictureCode), nrow))$V1, useNA="always")
+1597360683719:#    1    2    3    4    5    6 <NA>
+1597360683719:#  489   89   37   12    7    2    0
+1597360683719:# 489 / 636 (total)= 77% ==> on 77% of the trials, directors offered one description and the trial ended there
+1597360683720:## Distribution of the number of descriptions / expressions used by each dyad on mention 2
+1597360683720:table((ddply(Data[Data$Mention=="2", ], .(Dyad, Mention, PictureCode), nrow))$V1, useNA="always")
+1597360683721:#    1    2    3    4    5    6 <NA>
+1597360683721:#  535   71   26    7    1    0
+1597360683721:# 535 / 640 (total)= 83% ==> on 83% of the trials, directors offered one description and the trial ended there
+1597360683722:## INSPECTING DESCRIPTIONS TO GET A SENSE OF HOW THEY DIFFER ACROSS MENTIONS
+1597360683722:## BEGIN: Saving the data in a text file for visual inspection that can help spot human errors (i.e., when the same content words, but in different orders,
+1597360683722:## were assigned as label for description of the same picture by the same dyad). This also allows to check for cases where two labels differ in number
+1597360683722:## only (e.g., red_heel vs. red_heels) or for typos.
+1597360683722:ToCheckDescriptions <-ddply((ddply(Data, .(Dyad, PictureCode, PictureName, Description), nrow)), .(PictureCode, PictureName, Dyad), summarise, Descriptions=toString(Description))
+1597360683723:# This dataframe can be inspected by clicking on it on the top right window, in the "Environment"
+1597360683724:# tab. It will be displayed in a new tab on the top left window, as it would be in Excel.
+1597360683724:## >>>>>>SUBIN<<<<<
+1597360683724:## Please check that the description associated with each PictureName is a plausible
+1597360683724:## description. If the description seems to apply to another card, please right now the
+1597360683725:## Dyad number. There's probably a coding mistake that needs to get fixed.
+1597360683725:# write.table(ToCheckDescriptions, "ToCheckDescriptions.txt")
+1597360683725:## END
+1597360683725:###############################################################################
+1597360683726:#### NEW NEW NEW NEW NEW ######################################################
+1597360683726:## PREPARING THE DATA FOR ANALYSIS OF DESCRIPTION CONTENTS (SUBIN, AUG 2020) ##
+1597360683726:###############################################################################
+1597360683726:## STEP 1: Extracting the head noun as the last string (separated by _) of the description
+1597360683726:## errors are identified and corrected by hand
+1597360683726:## The next line extracts the last 'word' of the field 'Description' and lists it in a new
+1597360683727:## column called 'HeadNoun'
+1597360683727:Data$HeadNoun <- word(Data$Description, -1, sep=fixed("_"))
+1597360683727:Data[c(1:5), c('Description', 'HeadNoun')]
+1597360683728:# Now creating a dataframe that will allow me to spot the problems with this
+1597360683728:# 'last-word-is-head-noun' method.
+1597360683728:ToCheckHeadNouns <-ddply((ddply(Data, .(Dyad, PictureName, HeadNoun), nrow)), .(PictureName, Dyad), summarise, HeadNouns=toString(HeadNoun))
+1597360829053:Data <- merge(Coding_data, TrialDesignVideoCode_datC, by.x=c("Dyad", "TrialNbDesign"),
+1597360829056:by.y=c("Dyad", "TrialNb"), all.x=TRUE, all.y=FALSE)
+1597360902390:Coding_data_22 <- read.table("DescriptionDefiniteness_data.txt", header = true())
+1597360939334:Coding_data_22 <- read.table(file = "DescriptionsDefiniteness_data.txt", header = TRUE)
+1597360957299:Coding_data <- Coding_data_21[substr(Coding_data_21$Filename, 1, 3)!="D15", ]
+1597360963545:Coding_data_21 <- Coding_data_22[substr(Coding_data_22$Filename, 1, 3)!="D13", ]
+1597360963546:Coding_data <- Coding_data_21[substr(Coding_data_21$Filename, 1, 3)!="D15", ]
+1597361016271:TrialDesignVideoCode_dat_22 <-read.table("TrialDesignVideoCode_ALL_22pairs.txt", header=TRUE)
+1597361016279:ParticipantsDemographBooklet <- read.table("ParticipantsSESPersonalityADD_IlaSpring2018.txt", header=TRUE)
+1597361016283:## BEGIN: removing the 2 pairs that we excluded, D13 and D15
+1597361016283:nrow(TrialDesignVideoCode_dat_22)
+1597361016284:TrialDesignVideoCode_dat_21 <- TrialDesignVideoCode_dat_22[TrialDesignVideoCode_dat_22$Dyad!="D13", ]
+1597361016285:TrialDesignVideoCode_dat <- TrialDesignVideoCode_dat_21[TrialDesignVideoCode_dat_21$Dyad!="D15", ]
+1597361016286:TrialDesignVideoCode_dat$Dyad <- factor(TrialDesignVideoCode_dat$Dyad)
+1597361016287:Coding_data_21 <- Coding_data_22[substr(Coding_data_22$Filename, 1, 3)!="D13", ]
+1597361016289:Coding_data <- Coding_data_21[substr(Coding_data_21$Filename, 1, 3)!="D15", ]
+1597361016292:## END: removing the 2 pairs that we excluded, D13 and D15
+1597361016293:nrow(TrialDesignVideoCode_dat)
+1597361016293:nrow(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceCode=="MISSED", ])
+1597361016298:TrialDesignVideoCode_dat$ChoiceEval <- ifelse(TrialDesignVideoCode_dat$ChoiceCode=="MISSED", "missed", ifelse(substr(TrialDesignVideoCode_dat$ChoiceCode, 1, 4)==substr(TrialDesignVideoCode_dat$PictureCode, 1, 4), "correct", "incorrect"))
+1597361016301:TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="missed", ]
+1597361016305:## BEGIN: inspection of errors ##
+1597361016306:nrow(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ])
+1597361016307:# write.table((TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ]), "ErrorsToCheck.txt")
+1597361016307:## number of errors for each of the 8 dyads with errors
+1597361016307:ddply(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ], .(Dyad), nrow)
+1597361016312:#D05  1
+1597361016313:#D06  6
+1597361016314:#D10  7
+1597361016315:#D11  6
+1597361016316:#D16  5
+1597361016317:#D17  1
+1597361016317:#D18  3
+1597361016318:#D20  4
+1597361016318:## Only 8 out of the 20 dyads made any errors. Can a dyad's tendency to make errors correlated with their reuse strategy?
+1597361016319:ddply(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ], .(Dyad, Mention), nrow)
+1597361016326:ddply(TrialDesignVideoCode_dat[TrialDesignVideoCode_dat$ChoiceEval=="incorrect", ], .(Mention), nrow)
+1597361016329:#Mention V1
+1597361016329:#1       1 23
+1597361016330:#2       2 10     ==> so very few errors on mention 2, not a factor that can be modeled in the regression on Reuse
+1597361016330:## END: inspection of errors before demographics added ##
+1597361016330:nrow(Coding_data)
+1597361016331:nrow(TrialDesignVideoCode_dat)
+1597361016331:Coding_data$Dyad <- substring(Coding_data$Filename, 1, 3)
+1597361016332:Coding_data$TrialNbDesign <- substr(Coding_data$Filename, 9, 12)
+1597361016332:## BEGIN: Dealing with the fact that the trial numbers in TrialDesignVideoCode_dat are 1-1, as opposed to 1-01
+1597361016332:TrialDesignVideoCode_dat <- TrialDesignVideoCode_dat %>% mutate(TrialNb= ifelse(nchar(as.character(TrialDesignVideoCode_dat$TrialNb))==3, paste(substr(TrialDesignVideoCode_dat$TrialNb, 1, 2), substr(TrialDesignVideoCode_dat$TrialNb, 3, 3), sep="0"), as.character(TrialNb)))
+1597361016344:TrialDesignVideoCode_dat$TrialNb <- as.character(TrialDesignVideoCode_dat$TrialNb)
+1597361016345:## END: Dealing with the fact that the trial numbers in TrialDesignVideoCode_dat are 1-1, as opposed to 1-01
+1597361016345:# Here, I add the lag information between mention 1 and mention 2
+1597361016345:TrialDesignVideoCode_datC<- ddply(TrialDesignVideoCode_dat, .(Dyad, PictureCode), function(x){
+1597361016346:for(i in 1:nrow(x)){
+1597361016346:y <- x[x$Mention==1, ]
+1597361016347:z <- x[x$Mention==2, ]
+1597361016347:for(j in 1:nrow(y)){
+1597361016348:mention1position <- substr(y[j, c("TrialNb")], 3, 5)
+1597361016349:}
+1597361016350:for(k in 1:nrow(z)){
+1597361016350:mention2position <- substr(z[k, c("TrialNb")], 3, 5)
+1597361016351:}
+1597361016351:if(x[i, c("Mention")]==1){
+1597361016351:x[i, c("Lag")] <- 0
+1597361016352:}
+1597361016352:else{
+1597361016353:x[i, c("Lag")]<- as.numeric(mention2position)-(as.numeric(mention1position)+1)
+1597361016353:}
+1597361016353:}
+1597361016354:return(x)
+1597361016354:})
+1597361016924:Data <- merge(Coding_data, TrialDesignVideoCode_datC, by.x=c("Dyad", "TrialNbDesign"),
+1597361016925:by.y=c("Dyad", "TrialNb"), all.x=TRUE, all.y=FALSE)
+1597361016938:## Preparing demographics data on participants to merge with trial accuracy data
+1597361016939:## Below, I assign a SES level based on Education. First, I average
+1597361016939:## the educ levels of both parents; when the info for one of them is
+1597361016939:## missing, I keep only the one present. If both are missing, it's NaN
+1597361016940:ParticipantsDemographBooklet$EducMotherCode <- as.numeric(ParticipantsDemographBooklet$EducMotherCode)
+1597361016940:ParticipantsDemographBooklet$EducFatherCode <- as.numeric(ParticipantsDemographBooklet$EducFatherCode)
+1597361016941:## ParticipantsDemograph[, c("ID", "EducMotherCode", "EducFatherCode")]
+1597361016941:## I average the 2 codes for each parent when I have them; when I have a code for only one, it keeps this code only.
+1597361016941:ParticipantsDemographBooklet$EducParents <- rowMeans(subset(ParticipantsDemographBooklet, select =
+1597361016941:c(EducMotherCode, EducFatherCode)), na.rm = TRUE)
+1597361016942:## Then I apply the following rule: If the participant is younger than 30
+1597361016942:## use the parent's education level as proxy for SES; if older than 30
+1597361016942:## use the particiant's own level of education as proxy for SES. This
+1597361016943:## leaves 4 participants with no SES level (one declined answering any
+1597361016943:## of these questions anyway...
+1597361016943:ParticipantsDemographBooklet$Age <- as.numeric(as.character(ParticipantsDemographBooklet$Age))
+1597361016943:ParticipantsDemographBooklet$SESEduc <- ifelse(ParticipantsDemographBooklet$Age<30, ParticipantsDemographBooklet$EducParents,
+1597361016944:ifelse(ParticipantsDemographBooklet$Age>=30, ParticipantsDemographBooklet$EducSelfCode, "ERROR"))
+1597361016944:nrow(ParticipantsDemographBooklet[ParticipantsDemographBooklet$SESEduc=="ERROR" | ParticipantsDemographBooklet$SESEduc=="NaN", ])
+1597361016945:## 3 participants (out of 44) do not have a SES level established following the scheme described above; one is one of the people of
+1597361016945:## Dyad 13, which got excluded. The other ones are D10_A (who didn't specify educ level for themselves or their parents), and D19_A,
+1597361016945:## who is 19 but didn't specify their parent's education.
+1597361016945:ParticipantsDemographBooklet[substr(ParticipantsDemographBooklet$ID, 1, 3)=="D13", ]
+1597361016950:# rows 25 & 26
+1597361016950:ParticipantsDemographBooklet[substr(ParticipantsDemographBooklet$ID, 1, 3)=="D15", ]
+1597361016953:# rows 29 & 30
+1597361016953:## BEGIN: WHAT IS THE DISTRIBUTION OF AGES AND SESEduc IN THE SAMPLE?
+1597361016954:ParticipantsDemograph_20 <- ParticipantsDemographBooklet[c(1:24, 27:28, 31:44), ]
+1597361016954:max(ParticipantsDemograph_20$Age) #60
+1597361016955:min(ParticipantsDemograph_20$Age) #19
+1597361016955:median(ParticipantsDemograph_20$Age) #31
+1597361016956:table(ParticipantsDemograph_20$SESEduc, useNA="always")
+1597361016958:#  1    2  2.5    3  3.5    4  4.5    5  5.5    6  NaN <NA>
+1597361016958:#  5   12    1    4    2    1    1    8    1    3    1    1
+1597361016959:median(ParticipantsDemograph_20$SESEduc, na.rm=TRUE)
+1597361016960:# 3
+1597361016960:## END: WHAT IS THE DISTRIBUTION OF AGES AND SESEduc IN THE SAMPLE?
+1597361016961:##########################################################
+1597361016961:#### BEGIN: Preparing data on descriptions ###############
+1597361016962:##########################################################
+1597361016963:Data <- merge(Coding_data, TrialDesignVideoCode_datC, by.x=c("Dyad", "TrialNbDesign"),
+1597361016963:by.y=c("Dyad", "TrialNb"), all.x=TRUE, all.y=FALSE)
+1597361016970:table(Data$ChoiceEval, useNA="always")
+1597361016971:## The missed trials are no longer represented because there were no descriptions produced on those trials!!
+1597361016972:##write.table(Data, "ToFindNA.txt")
+1597361016972:Data$Role <- ifelse(substr(Data$ContributingSpeaker, 8, 8)==Data$DirectorID, "director",
+1597361016973:ifelse(substr(Data$ContributingSpeaker, 8, 8)==Data$MatcherID, "matcher", "ERROR"))
+1597361016974:nrow(Data[Data$Role=="ERROR", ])
+1597361016976:#BEGIN: Checking that Definiteness and Description are segments that align.
+1597361016976:Data$DescripDefCheck <- ifelse(Data$Onset_sec==Data$Onset_sec_Def, "correct", "ERROR")
+1597361016976:nrow(Data[Data$DescripDefCheck=="ERROR", ])
+1597361016977:# if no issue, delete the column
+1597361016977:Data$DescripDefCheck <- NULL
+1597361016977:#END: Checking that Definiteness and Description are segments that align.
+1597361016978:# Adding an identifier to each speaker
+1597361016978:Data$DyadSpeaker <- paste(Data$Dyad, substr(Data$ContributingSpeaker, 8, 8), sep="-")
+1597361016979:# Distribution of descriptions across roles and mentions
+1597361016979:#BEGIN: checking that there is at least 1 description per trial for director; if not (and those trials are not missing),
+1597361016980:#       the description may have been coded on the wrong tier.
+1597361016980:xtabs(~ Dyad + TrialNbDesign, data=Data[Data$Role=="director" & substr(Data$TrialNbDesign, 1, 1)=="1", ])
+1597361017030:xtabs(~ Dyad + TrialNbDesign, data=Data[Data$Role=="director" & substr(Data$TrialNbDesign, 1, 1)=="2", ])
+1597361017044:#END: checking that there is at least 1 description per trial for director.
+1597361017044:xtabs(~Role + Mention, Data)
+1597361017047:#          Mention
+1597361017047:#Role         1   2
+1597361017047:#  director 806 756
+1597361017047:#  matcher   67  33
+1597361017048:#          92%  96%
+1597361017048:xtabs(~ Dyad + Role + Mention, Data)
+1597361017053:prop.table((xtabs(~ Dyad + Role, Data[Data$Mention=="1", ])), 1)
+1597361017065:prop.table((xtabs(~ Dyad + Role, Data[Data$Mention=="2", ])), 1)
+1597361017072:# how many different descriptions (on average) did each dyad (aggregating between directors and matchers) use on each mention?
+1597361017073:ddply((ddply(Data, .(Dyad, Mention, PictureCode), nrow)), .(Dyad, Mention), summarise, MeanDescripNb = mean(V1))
+1597361017282:# if I average across dyads:
+1597361017282:ddply(ddply((ddply(Data, .(Dyad, Mention, PictureCode), nrow)), .(Dyad, Mention), summarise, MeanDescripNb = mean(V1)), .(Mention), summarise, mean = mean(MeanDescripNb))
+1597361017459:##Mention     mean
+1597361017460:##1       1 1.37
+1597361017465:##2       2 1.23
+1597361017466:## Distribution of the number of descriptions / expressions used by each dyad on mention 1
+1597361017466:table((ddply(Data[Data$Mention=="1", ], .(Dyad, Mention, PictureCode), nrow))$V1, useNA="always")
+1597361017530:#    1    2    3    4    5    6 <NA>
+1597361017530:#  489   89   37   12    7    2    0
+1597361017532:# 489 / 636 (total)= 77% ==> on 77% of the trials, directors offered one description and the trial ended there
+1597361017533:## Distribution of the number of descriptions / expressions used by each dyad on mention 2
+1597361017533:table((ddply(Data[Data$Mention=="2", ], .(Dyad, Mention, PictureCode), nrow))$V1, useNA="always")
+1597361017602:#    1    2    3    4    5    6 <NA>
+1597361017602:#  535   71   26    7    1    0
+1597361017604:# 535 / 640 (total)= 83% ==> on 83% of the trials, directors offered one description and the trial ended there
+1597361017605:## INSPECTING DESCRIPTIONS TO GET A SENSE OF HOW THEY DIFFER ACROSS MENTIONS
+1597361017605:## BEGIN: Saving the data in a text file for visual inspection that can help spot human errors (i.e., when the same content words, but in different orders,
+1597361017605:## were assigned as label for description of the same picture by the same dyad). This also allows to check for cases where two labels differ in number
+1597361017605:## only (e.g., red_heel vs. red_heels) or for typos.
+1597361017605:ToCheckDescriptions <-ddply((ddply(Data, .(Dyad, PictureCode, PictureName, Description), nrow)), .(PictureCode, PictureName, Dyad), summarise, Descriptions=toString(Description))
+1597361018797:# This dataframe can be inspected by clicking on it on the top right window, in the "Environment"
+1597361018797:# tab. It will be displayed in a new tab on the top left window, as it would be in Excel.
+1597361018802:## >>>>>>SUBIN<<<<<
+1597361018803:## Please check that the description associated with each PictureName is a plausible
+1597361018803:## description. If the description seems to apply to another card, please right now the
+1597361018803:## Dyad number. There's probably a coding mistake that needs to get fixed.
+1597361018804:# write.table(ToCheckDescriptions, "ToCheckDescriptions.txt")
+1597361018804:## END
+1597361018804:###############################################################################
+1597361018804:#### NEW NEW NEW NEW NEW ######################################################
+1597361018805:## PREPARING THE DATA FOR ANALYSIS OF DESCRIPTION CONTENTS (SUBIN, AUG 2020) ##
+1597361018805:###############################################################################
+1597361018805:## STEP 1: Extracting the head noun as the last string (separated by _) of the description
+1597361018805:## errors are identified and corrected by hand
+1597361018806:## The next line extracts the last 'word' of the field 'Description' and lists it in a new
+1597361018806:## column called 'HeadNoun'
+1597361018806:Data$HeadNoun <- word(Data$Description, -1, sep=fixed("_"))
+1597361018840:Data[c(1:5), c('Description', 'HeadNoun')]
+1597361037473:ToCheckHeadNouns <-ddply((ddply(Data, .(Dyad, PictureName, HeadNoun), nrow)), .(PictureName, Dyad), summarise, HeadNouns=toString(HeadNoun))
+1597361049760:View(ToCheckHeadNouns)
+1597361086958:View(Data)
+1597361130137:Data[Data$Dyad=="D10" & Data$PictureName=="baseballhat", c("Description")]
+1597361224184:Data[Data$Dyad=="D10" & Data$PictureName=="baseballhat" & Data$Description=="hat_same_color_as_pocketknife", c("HeadNoun")] <- "hat"
+1597361307740:View(Data)
+1597361396143:Data[Data$Dyad=="D22" & Data$PictureName=="blouse", c("Description")]
+1597361411241:Data[Data$Dyad=="D02" & Data$PictureName=="blouse", c("Description")]
+1597361591957:Data[Data$Dyad=="D02" & Data$PictureName=="blouse", c("Description")]
+1597361591964:Data[Data$Dyad=="D02" & Data$PictureName=="blouse", c("HeadNoun")] <- "blouse"
+1597361630143:Data[Data$Dyad=="D03" & Data$PictureName=="blouse", c("Description")]
+1597361664153:Data[Data$Dyad=="D03" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597361726984:Data[Data$Dyad=="D04" & Data$PictureName=="blouse", c("Description")]
+1597361793631:Data[Data$Dyad=="D04" & Data$PictureName=="blouse" & Data$Description == "green_shirt_with_bow", c("HeadNoun")] <- "shirt"
+1597361825288:Data[Data$Dyad=="D04" & Data$PictureName=="blouse" & Data$Description == "green_top_with_bow", c("HeadNoun")] <- "top"
+1597363848922:Data[Data$Dyad=="D08" & Data$PictureName=="blouse", c("Description")]
+1597363873727:Data[Data$Dyad=="D09" & Data$PictureName=="blouse", c("Description")]
+1597363938216:Data[Data$Dyad=="D09" & Data$PictureName=="blouse", c("HeadNoun")] <- "blouse"
+1597364004633:Data[Data$Dyad=="D11" & Data$PictureName=="blouse", c("Description")]
+1597364019395:Data[Data$Dyad=="D14" & Data$PictureName=="blouse", c("Description")]
+1597364188985:Data[Data$Dyad=="D14" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597364223417:Data[Data$Dyad=="D16" & Data$PictureName=="blouse", c("Description")]
+1597364330745:Data[Data$Dyad=="D16" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597364359426:Data[Data$Dyad=="D21" & Data$PictureName=="blouse", c("Description")]
+1597364383499:Data[Data$Dyad=="D21" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597364576930:Data[Data$Dyad=="D21" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597364592715:Data[Data$Dyad=="D03" & Data$PictureName=="candy", c("Description")]
+1597364610362:Data[Data$Dyad=="D03" & Data$PictureName=="butterscotch", c("Description")]
+1597364623253:Data[Data$Dyad=="D04" & Data$PictureName=="candy", c("Description")]
+1597364630721:Data[Data$Dyad=="D04" & Data$PictureName=="butterscotch", c("Description")]
+1597364808088:Data[Data$Dyad=="D04" & Data$PictureName=="butterscotch" & Data$Description == "orange_lozenge_with_yellow_wrapper", c("HeadNoun")] <- "lozenge"
+1597364852683:Data[Data$Dyad=="D05" & Data$PictureName=="butterscotch", c("Description")]
+1597364906017:Data[Data$Dyad=="D05" & Data$PictureName=="butterscotch" & Data$Description == "yellow_hard_candy_in_wrapper", c("HeadNoun")] <- "candy"
+1597364986102:Data[Data$Dyad=="D06" & Data$PictureName=="butterscotch", c("Description")]
+1597365025184:Data[Data$Dyad=="D06" & Data$PictureName=="butterscotch" & Data$Description == "yellow_candy_twist_up_in_paper", c("HeadNoun")] <- "candy"
+1597365059694:Data[Data$Dyad=="D09" & Data$PictureName=="butterscotch", c("Description")]
+1597365339015:Data[Data$Dyad=="D09" & Data$PictureName=="butterscotch" & Data$Description == "yellow_werther's_candy_or_cheap_generic_kind", c("HeadNoun")] <- "candy"
+1597365375833:Data[Data$Dyad=="D10" & Data$PictureName=="butterscotch", c("Description")]
+1597365434817:# "old_school_candy"         "old_school_candy_you_eat" "butterscotch_candy"
+1597365434822:Data[Data$Dyad=="D10" & Data$PictureName=="butterscotch" & Data$Description == "old_school_candy_you_eat", c("HeadNoun")] <- "candy"
+1597365460868:Data[Data$Dyad=="D14" & Data$PictureName=="butterscotch", c("Description")]
+1597365516040:# "nasty_candy_that_looks_like_a_goldfish"      "butterscotch"      "butterscotch"      "butterscotch_yellow_candy_in_yellow_wrapper"
+1597365516046:Data[Data$Dyad=="D10" & Data$PictureName=="butterscotch" & Data$Description == "nasty_candy_that_looks_like_a_goldfish", c("HeadNoun")] <- "candy"
+1597365531078:# "nasty_candy_that_looks_like_a_goldfish"      "butterscotch"      "butterscotch"      "butterscotch_yellow_candy_in_yellow_wrapper"
+1597365531078:Data[Data$Dyad=="D14" & Data$PictureName=="butterscotch" & Data$Description == "nasty_candy_that_looks_like_a_goldfish", c("HeadNoun")] <- "candy"
+1597365638681:Data[Data$Dyad=="D14" & Data$PictureName=="butterscotch" & Data$Description == "butterscotch_yellow_candy_in_yellow_wrapper", c("HeadNoun")] <- "candy"
+1597365744428:Data[Data$Dyad=="D19" & Data$PictureName=="butterscotch", c("Description")]
+1597365788885:# "orange_candy_thingish" "butterscotch_candy"
+1597365788890:Data[Data$Dyad=="D19" & Data$PictureName=="butterscotch" & Data$Description == "orange_candy_thingish", c("HeadNoun")] <- "candy"
+1597365805274:Data[Data$Dyad=="D19" & Data$PictureName=="butterscotch", c("Description")]
+1597365814962:Data[Data$Dyad=="D20" & Data$PictureName=="butterscotch", c("Description")]
+1597365880729:# "piece_of_candy"            "peppermint"                "yellow_candy"              "red_candy"
+1597365880735:# "piece_of_candy"            "tan_orange_candy"          "orange_candy_with_wrapper"
+1597365880735:Data[Data$Dyad=="D20" & Data$PictureName=="butterscotch" & Data$Description == "orange_candy_with_wrapper", c("HeadNoun")] <- "candy"
+1597365995081:##########################################################
+1597365995082:####################### BUTTONDOWN #######################
+1597365995082:Data[Data$Dyad=="D01" & Data$PictureName=="buttondown", c("Description")]
+1597366005659:##########################################################
+1597366005660:####################### BUTTONDOWN #######################
+1597366005660:Data[Data$Dyad=="D02" & Data$PictureName=="buttondown", c("Description")]
+1597366065410:# "tan_men's_shirt_button_down" "tan_men's_shirt_button_down"
+1597366065416:Data[Data$Dyad=="D02" & Data$PictureName=="buttondown", c("HeadNoun")] <- "buttondown"
+1597366098910:# "tan_men's_shirt_button_down" "tan_men's_shirt_button_down"
+1597366098910:Data[Data$Dyad=="D02" & Data$PictureName=="buttondown", c("HeadNoun")] <- "shirt"
+1597366175372:Data[Data$Dyad=="D02" & Data$PictureName=="buttondown", c("Description")]
+1597366181584:Data[Data$Dyad=="D09" & Data$PictureName=="buttondown", c("Description")]
+1597366226023:# "tan_button_down_collared_long_sleeve" "tan_button_down_long_sleeve"
+1597366226023:Data[Data$Dyad=="D09" & Data$PictureName=="buttondown", c("HeadNoun")] <- "buttondown"
+1597366252690:Data[Data$Dyad=="D14" & Data$PictureName=="buttondown", c("Description")]
+1597366338643:# "tan_collared_shirt"   "long_sleeve_tan_collared_shirt"   "tan_button_up_collar_shirt_long_sleeve_with_pocket_on_front"
+1597366338643:Data[Data$Dyad=="D14" & Data$PictureName=="buttondown" & Data$Description == "tan_button_up_collar_shirt_long_sleeve_with_pocket_on_front", c("HeadNoun")] <- "shirt"
+1597366361587:Data[Data$Dyad=="D17" & Data$PictureName=="buttondown", c("Description")]
+1597366508822:# "tan_long_sleeve" "brown_button_up"
+1597366508828:Data[Data$Dyad=="D17" & Data$PictureName=="buttondown", c("HeadNoun")] <- "shirt"
+1597366532439:Data[Data$Dyad=="D21" & Data$PictureName=="buttondown", c("Description")]
+1597366561050:# "tan_button_up_with_pocket" "tan_button_up_with_pocket"
+1597366561051:Data[Data$Dyad=="D21" & Data$PictureName=="buttondown", c("HeadNoun")] <- "buttonup"
+1597366704658:##########################################################
+1597366704659:####################### cowboyboot #######################
+1597366704660:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot", c("Description")
+1597366722678:##########################################################
+1597366722684:####################### cowboyboot #######################
+1597366722684:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot", c("Description")]
+1597366737725:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot", c("Description")]
+1597366746827:Data[Data$Dyad=="D21" & Data$PictureName=="buttondown", c("Description")]
+1597366746828:# "tan_button_up_with_pocket" "tan_button_up_with_pocket"
+1597366746833:Data[Data$Dyad=="D21" & Data$PictureName=="buttondown", c("HeadNoun")] <- "buttonup"
+1597366746833:##########################################################
+1597366746833:####################### cowboyboot #######################
+1597366746834:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot", c("Description")]
+1597366818057:# "brown_cowboy_boot"         "brown_cowboy_boot"       "brown_cowboy_boot_with_design_on_front"
+1597366818057:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot" & Data$Description == "brown_cowboy_boot_with_design_on_front", c("HeadNoun")] <- "boot"
+1597408910863:Data[Data$Dyad=="D01" & Data$PictureName=="cowboyhat", c("Description")]
+1597408912653:Data[Data$Dyad=="D01" & Data$PictureName=="cowboyhat", c("Description")]
+1597408923930:Data[Data$Dyad=="D02" & Data$PictureName=="cowboyhat", c("Description")]
+1597409032650:Data[Data$Dyad=="D07" & Data$PictureName=="cowboyhat", c("Description")]
+1597409125201:Data[Data$Dyad=="D07" & Data$PictureName=="cowboyhat" & Data$Description == "brown_item_with_silver_lining", c("HeadNoun")] <- "item"
+1597409145931:Data[Data$Dyad=="D22" & Data$PictureName=="cowboyhat", c("Description")]
+1597409240781:##########################################################
+1597409240782:####################### dressshoe ########################
+1597409240782:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe", c("Description")]
+1597409293921:# "brown_mans_shoe_shoelaces"       "brown_mans_shoe_black_shoelaces"
+1597409293927:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe", c("HeadNoun")] <- "shoe"
+1597409311540:Data[Data$Dyad=="D07" & Data$PictureName=="dressshoe", c("Description")]
+1597409363144:# "brown_shoe_that_i_would_wear" "brown_shoe"
+1597409363156:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_that_i_would_wear", c("HeadNoun")] <- "shoe"
+1597409434694:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe", c("Description")]
+1597409524532:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe" & Data$Description == "shoe_like_bert_and_ernie_with_laces", c("HeadNoun")] <- "shoe"
+1597409527927:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_with_five_laces", c("HeadNoun")] <- "shoe"
+1597409560199:Data[Data$Dyad=="D07" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_that_i_would_wear", c("HeadNoun")] <- "shoe"
+1597409566085:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe", c("Description")]
+1597409566086:# "brown_mans_shoe_shoelaces"       "brown_mans_shoe_black_shoelaces"
+1597409566090:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe", c("HeadNoun")] <- "shoe"
+1597409566092:Data[Data$Dyad=="D07" & Data$PictureName=="dressshoe", c("Description")]
+1597409566092:# "brown_shoe_that_i_would_wear" "brown_shoe"
+1597409566093:Data[Data$Dyad=="D07" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_that_i_would_wear", c("HeadNoun")] <- "shoe"
+1597409566093:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe", c("Description")]
+1597409566094:# "sandal"                              "shoe"                                "brown_old_mans_shoe"
+1597409566094:# "shoe_like_bert_and_ernie_with_laces" "shoe"                                "brown_shoe_with_five_laces"
+1597409566094:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe" & Data$Description == "shoe_like_bert_and_ernie_with_laces", c("HeadNoun")] <- "shoe"
+1597409566094:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_with_five_laces", c("HeadNoun")] <- "shoe"
+1597409685843:##########################################################
+1597409685843:####################### fancyboot ########################
+1597409685844:Data[Data$Dyad=="D01" & Data$PictureName=="fancyboot", c("Description")]
+1597409727710:# "high_heeled_shoe_kneehigh" "knee_boot"                 "knee_boot"
+1597409727711:Data[Data$Dyad=="D01" & Data$PictureName=="fancyboot" & Data$Description == "high_heeled_shoe_kneehigh", c("HeadNoun")] <- "shoe"
+1597409742989:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot", c("Description")]
+1597409861080:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot", c("Description")]
+1597409861086:# "long_high_heel"       "high_heel_boot_black" "high_heel_boot_black" "long_high_heel"
+1597409861087:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot", c("HeadNoun")] <- "highheel"
+1597409861087:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot" & Data$Description == "high_heel_boot_black", c("HeadNoun")] <- "boot"
+1597410079933:Data[Data$Dyad=="D04" & Data$PictureName=="fancyboot", c("Description")]
+1597410102177:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot", c("Description")]
+1597410214703:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot" & Data$Description == "something_you_would_wear_when_we_go_out_to_the_bar_on_your_feet", c("HeadNoun")] <- "something"
+1597410214703:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot" & Data$Description == "same_boots_to_the_bar", c("HeadNoun")] <- "boots"
+1597410299409:Data[Data$Dyad=="D16" & Data$PictureName=="fancyboot", c("Description")]
+1597410328984:# "black_boot"                          "black_knee_high_boot"                "black_knee_high_boot_with_one_strap"
+1597410328990:Data[Data$Dyad=="D16" & Data$PictureName=="fancyboot" & Data$Description == "black_knee_high_boot_with_one_strap", c("HeadNoun")] <- "boot"
+1597410342186:Data[Data$Dyad=="D17" & Data$PictureName=="fancyboot", c("Description")]
+1597410411688:# "black_long_boot"                     "black_long_boot_with_heel_and_strap" "black_long_boot"
+1597410411694:# "long_black_boot"                     "long_black_boot_with_heel"
+1597410411694:Data[Data$Dyad=="D17" & Data$PictureName=="fancyboot" & Data$Description == "black_long_boot_with_heel_and_strap", c("HeadNoun")] <- "boot"
+1597411043319:Data[Data$Dyad=="D21" & Data$PictureName=="fancyboot", c("Description")]
+1597411131794:# "black_boot_with_buckle_at_top"               "black_boot_2_3_inch_heel_with_buckle_at_top"
+1597411131800:# "boot_with_buckle_at_top"                     "black_boot_with_buckle_at_top_with_heel"   "black_boot"
+1597411131800:Data[Data$Dyad=="D21" & Data$PictureName=="fancyboot", c("HeadNoun")] <- "boot"
+1597411150990:Data[Data$Dyad=="D22" & Data$PictureName=="fancyboot", c("Description")]
+1597411198154:# "stiletto"            "boot"                "black_boot"          "stiletto"            "stiletto_black_heel"
+1597411198159:Data[Data$Dyad=="D22" & Data$PictureName=="fancyboot" & Data$Description == "stiletto_black_heel", c("HeadNoun")] <- "stiletto"
+1597411285019:##########################################################
+1597411285023:######################## furcoat #########################
+1597411285030:Data[Data$Dyad=="D03" & Data$PictureName=="furcoat", c("Description")]
+1597411298133:##########################################################
+1597411298139:######################## furcoat #########################
+1597411298139:Data[Data$Dyad=="D05" & Data$PictureName=="furcoat", c("Description")]
+1597411410041:# "complete_ladies_fur_coat"       "standard_ladies_fur_coat_fairly_long_just_above_knees"    "ladies_fur_coat"
+1597411410047:Data[Data$Dyad=="D05" & Data$PictureName=="furcoat" & Data$Description == "standard_ladies_fur_coat_fairly_long_just_above_knees", c("HeadNoun")] <- "coat"
+1597411432570:Data[Data$Dyad=="D22" & Data$PictureName=="furcoat", c("Description")]
+1597411503012:##########################################################
+1597411503018:####################### hersheykiss ######################
+1597411503019:Data[Data$Dyad=="D01" & Data$PictureName=="hersheykiss", c("Description")]
+1597411518565:##########################################################
+1597411518566:####################### hersheykiss ######################
+1597411518578:Data[Data$Dyad=="D11" & Data$PictureName=="hersheykiss", c("Description")]
+1597411529712:##########################################################
+1597411529717:####################### hersheykiss ######################
+1597411529717:Data[Data$Dyad=="D19" & Data$PictureName=="hersheykiss", c("Description")]
+1597411594948:# "candy"        "candy_with_and_without_wrapper" "kisses"  "aluminum_foil_candy"  "aluminum_foil_candy"
+1597411594948:Data[Data$Dyad=="D19" & Data$PictureName=="hersheykiss" & Data$Description == "candy_with_and_without_wrapper", c("HeadNoun")] <- "candy"
+1597411610805:Data[Data$Dyad=="D21" & Data$PictureName=="hersheykiss", c("Description")]
+1597411659728:# "hershey's_kiss_one_open_one_not"          "hershey's_kiss_one_wrapped_one_unwrapped"
+1597411659729:Data[Data$Dyad=="D21" & Data$PictureName=="hersheykiss", c("HeadNoun")] <- "kiss"
+1597411733439:##########################################################
+1597411733439:######################## highheel ########################
+1597411733444:Data[Data$Dyad=="D22" & Data$PictureName=="highheel", c("Description")]
+1597411776471:##########################################################
+1597411776471:######################## kitchenkife #####################
+1597411776476:Data[Data$Dyad=="D07" & Data$PictureName=="kitchenkife", c("Description")]
+1597411788757:##########################################################
+1597411788763:####################### kitchenknife #####################
+1597411788763:Data[Data$Dyad=="D07" & Data$PictureName=="kitchenknife", c("Description")]
+1597411910653:Data[Data$Dyad=="D14" & Data$PictureName=="kitchenknife", c("Description")]
+1597411982929:# "butcher_knife_with_black_handle"     "sharp_kitchen_knife"         "sharp_kitchen_knife_with_black_handle"
+1597411982930:# "sharp_knife_with_black_handle_with_hells_kitchen_symbol"     "sharp_knife_with_black_handle_with_trident"
+1597411982930:Data[Data$Dyad=="D14" & Data$PictureName=="kitchenknife", c("HeadNoun")] <- "knife"
+1597412035156:##########################################################
+1597412035156:######################## lollypop ########################
+1597412035157:Data[Data$Dyad=="D10" & Data$PictureName=="lollypop", c("Description")]
+1597412046568:##########################################################
+1597412046569:######################## lollipop ########################
+1597412046569:Data[Data$Dyad=="D10" & Data$PictureName=="lollipop", c("Description")]
+1597412108053:# "something_amani_likes_to_eat" "red_taffy"
+1597412108059:Data[Data$Dyad=="D10" & Data$PictureName=="lollipop", c("HeadNoun")] <- "something"
+1597412129349:Data[Data$Dyad=="D14" & Data$PictureName=="lollipop", c("Description")]
+1597412197248:# "red_lollipop"                        "red_lollipop_candy_with_white_stick"
+1597412197248:Data[Data$Dyad=="D14" & Data$PictureName=="lollipop" & Data$Description == "red_lollipop_candy_with_white_stick", c("HeadNoun")] <- "candy"
+1597412219958:Data[Data$Dyad=="D16" & Data$PictureName=="lollipop", c("Description")]
+1597412273034:Data[Data$Dyad=="D16" & Data$PictureName=="lollipop" & Data$Description == "red_lolipop", c("Description")] <- "red_lollipop"
+1597412322970:Data[Data$Dyad=="D21" & Data$PictureName=="lollipop", c("Description")]
+1597412362829:# "red_lollipop_white_stick"        "single_red_lollipop_white_stick" "one_lollipop"      "lollipop"
+1597412362829:Data[Data$Dyad=="D21" & Data$PictureName=="lollipop" & Data$Description == "red_lollipop_white_stick", c("HeadNoun")] <- "lollipop"
+1597412445051:##########################################################
+1597412445057:######################## longsleeve ######################
+1597412445057:Data[Data$Dyad=="D16" & Data$PictureName=="longsleeve", c("Description")]
+1597412521474:# "brown_and_white_long_sleeve_shirt"      "brown_and_white_shirt"      "brown_and_white_shirt_with_the_stripes"
+1597412521475:Data[Data$Dyad=="D16" & Data$PictureName=="longsleeve" & Data$Description == "brown_and_white_shirt_with_the_stripes", c("HeadNoun")] <- "shirt"
+1597412540917:Data[Data$Dyad=="D19" & Data$PictureName=="longsleeve", c("Description")]
+1597412575299:# "shirt"                  "shirt_with_stripes"     "red_shirt"              "red_shirt_with_stripes"
+1597412575305:Data[Data$Dyad=="D19" & Data$PictureName=="longsleeve" & Data$Description == "shirt_with_stripes", c("HeadNoun")] <- "shirt"
+1597412576726:Data[Data$Dyad=="D19" & Data$PictureName=="longsleeve" & Data$Description == "red_shirt_with_stripes", c("HeadNoun")] <- "shirt"
+1597412595410:Data[Data$Dyad=="D21" & Data$PictureName=="longsleeve", c("Description")]
+1597412637258:# "burgundy_shirt_with_white_stripes" "burgundy_shirt_with_white_stripes"
+1597412637264:Data[Data$Dyad=="D21" & Data$PictureName=="longsleeve", c("HeadNoun")] <- "shirt"
+1597412710141:##########################################################
+1597412710147:######################## loungechair #####################
+1597412710147:Data[Data$Dyad=="D12" & Data$PictureName=="loungechair", c("Description")]
+1597412788298:##########################################################
+1597412788300:######################## metalchair #####################
+1597412788300:Data[Data$Dyad=="D10" & Data$PictureName=="metalchair", c("Description")]
+1597412828132:# "something_you_sit_in" "cook_out_chair"       "fold_up_chair"
+1597412828132:Data[Data$Dyad=="D10" & Data$PictureName=="metalchair" & Data$Description == "something_you_sit_in", c("HeadNoun")] <- "something"
+1597412842274:Data[Data$Dyad=="D14" & Data$PictureName=="metalchair", c("Description")]
+1597413036605:# "church_chair"        "always_cold_or_hot_when_in_sun"        "chair_everyone_sits_in_when_church_overflows"
+1597413036611:# "tannish_brown_chair_everyone_sits_in_when_church_overflows"  "church_chair"      "folding_chair"     "church_chair"
+1597413036611:# "folding_chair"     "folding_chair"
+1597413036611:Data[Data$Dyad=="D14" & Data$PictureName=="metalchair", c("HeadNoun")] <- "chair"
+1597413050581:Data[Data$Dyad=="D19" & Data$PictureName=="metalchair", c("Description")]
+1597413076860:# "folding_chair"    "chair_in_my_room"
+1597413076861:Data[Data$Dyad=="D19" & Data$PictureName=="metalchair" & Data$Description == "chair_in_my_room", c("HeadNoun")] <- "chair"
+1597413147128:##########################################################
+1597413147134:######################## officechair #####################
+1597413147134:Data[Data$Dyad=="D02" & Data$PictureName=="officechair", c("Description")]
+1597413158494:##########################################################
+1597413158494:######################## officechair #####################
+1597413158494:Data[Data$Dyad=="D05" & Data$PictureName=="officechair", c("Description")]
+1597413210249:# "arms_rollers_chair"                  "moveable_up_and_down_different_heights_black_office_chair_on_wheels"
+1597413210252:Data[Data$Dyad=="D05" & Data$PictureName=="officechair" & Data$Description == "moveable_up_and_down_different_heights_black_office_chair_on_wheels", c("HeadNoun")] <- "chair"
+1597413225401:Data[Data$Dyad=="D09" & Data$PictureName=="officechair", c("Description")]
+1597413250693:# "comfy_black_office_chair"           "comfy_black_office_chair_with_arms" "comfy_office_chair"
+1597413250693:Data[Data$Dyad=="D09" & Data$PictureName=="officechair" & Data$Description == "comfy_black_office_chair_with_arms", c("HeadNoun")] <- "chair"
+1597413266685:Data[Data$Dyad=="D17" & Data$PictureName=="officechair", c("Description")]
+1597413293000:# "office_chair"             "office_chair_with_wheels" "black_office_chair"
+1597413293001:Data[Data$Dyad=="D17" & Data$PictureName=="officechair" & Data$Description == "office_chair_with_wheels", c("HeadNoun")] <- "chair"
+1597413307211:Data[Data$Dyad=="D21" & Data$PictureName=="officechair", c("Description")]
+1597413358743:# "rolly_chair_three_handles_that_pump_you_up"      "black_chair_three_handle_that_pump_you_up"
+1597413358744:# "black_rolly_chair_three_handle_that_pump_you_up" "black_rolling_office_chair"
+1597413358749:Data[Data$Dyad=="D21" & Data$PictureName=="officechair", c("HeadNoun")] <- "chair"
+1597414309408:##########################################################
+1597414309414:########################### peacoat ######################
+1597414309414:Data[Data$Dyad=="D03" & Data$PictureName=="peacoat", c("Description")]
+1597414337638:# "black_peacoat_double_buttons" "black_peacoat"
+1597414337644:Data[Data$Dyad=="D03" & Data$PictureName=="peacoat" & Data$Description == "black_peacoat_double_buttons", c("HeadNoun")] <- "peacoat"
+1597414358712:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat", c("Description")]
+1597414403328:# "black_wool_coat"                 "peacoat"                        "black_wool_coat"                                        "black_wool_coat_two_sets_of_buttons"
+1597414403334:# "black_wool_coat_two_sets_of_buttons_going_up_the_front" "peacoat"
+1597414403334:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat" & Data$Description == "black_wool_coat_two_sets_of_buttons_going_up_the_front", c("HeadNoun")] <- "coat"
+1597414459382:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat" & Data$Description == "black_wool_coat_two_sets_of_buttons", c("HeadNoun")] <- "coat"
+1597414471105:Data[Data$Dyad=="D05" & Data$PictureName=="peacoat", c("Description")]
+1597414498983:# "blackish_blue_front_button_down_navy_peacoat" "black_peacoat_eight_buttons_front_navy_style"
+1597414498984:Data[Data$Dyad=="D05" & Data$PictureName=="peacoat" & Data$Description == "black_peacoat_eight_buttons_front_navy_style", c("HeadNoun")] <- "peacoat"
+1597414521341:Data[Data$Dyad=="D12" & Data$PictureName=="peacoat", c("Description")]
+1597414573469:Data[Data$Dyad=="D19" & Data$PictureName=="peacoat", c("Description")]
+1597414628048:# "coat"                          "coat_with_collar"              "black_coat_with_collar"
+1597414628048:# "miss_monica_coat"              "coat_she_wears_every_day"      "black_coat_with_black_buttons"
+1597414628053:Data[Data$Dyad=="D19" & Data$PictureName=="peacoat", c("HeadNoun")] <- "coat"
+1597414661796:Data[Data$Dyad=="D22" & Data$PictureName=="peacoat", c("Description")]
+1597414715423:##########################################################
+1597414715429:######################## peppermint ######################
+1597414715429:Data[Data$Dyad=="D14" & Data$PictureName=="peppermint", c("Description")]
+1597414747747:# "round_peppermint_candy_with_stripes" "peppermint_candy"
+1597414747753:Data[Data$Dyad=="D14" & Data$PictureName=="peppermint" & Data$Description == "round_peppermint_candy_with_stripes", c("HeadNoun")] <- "candy"
+1597414783181:Data[Data$Dyad=="D20" & Data$PictureName=="peppermint", c("Description")]
+1597414916770:##########################################################
+1597414916778:######################## rainboot ########################
+1597414916779:Data[Data$Dyad=="D14" & Data$PictureName=="rainboot", c("Description")]
+1597414945529:# "blue_rain_boot_with_polka_dots"      "light_blue_rainboot_with_polka_dots"
+1597414945536:Data[Data$Dyad=="D14" & Data$PictureName=="rainboot" & Data$Description == "blue_rain_boot_with_polka_dots", c("HeadNoun")] <- "rainboot"
+1597414977267:# "blue_rain_boot_with_polka_dots"      "light_blue_rainboot_with_polka_dots"
+1597414977273:Data[Data$Dyad=="D14" & Data$PictureName=="rainboot", c("HeadNoun")] <- "rainboot"
+1597415102285:Data[Data$Dyad=="D21" & Data$PictureName=="rainboot", c("Description")]
+1597415171536:# "same_color_as_this_building_rainboot_with_white_polka_dots"    "greenish_rainboot_with_polka_dots"
+1597415171543:Data[Data$Dyad=="D21" & Data$PictureName=="rainboot", c("HeadNoun")] <- "rainboot"
+1597415225134:##########################################################
+1597415225135:######################## raincoat ########################
+1597415225135:Data[Data$Dyad=="D05" & Data$PictureName=="raincoat", c("Description")]
+1597415239666:##########################################################
+1597415239666:######################## raincoat ########################
+1597415239671:Data[Data$Dyad=="D10" & Data$PictureName=="raincoat", c("Description")]
+1597415281784:# "something_to_stop_the_rain_from_getting_you_wet" "yellow_rain_jacket"
+1597415281790:Data[Data$Dyad=="D10" & Data$PictureName=="raincoat" & Data$Description == "something_to_stop_the_rain_from_getting_you_wet", c("HeadNoun")] <- "something"
+1597415298950:Data[Data$Dyad=="D21" & Data$PictureName=="raincoat", c("Description")]
+1597415321400:# "yellow_raincoat_with_blue_polka_dots" "yellow_raincoat"
+1597415321407:Data[Data$Dyad=="D21" & Data$PictureName=="raincoat" & Data$Description == "yellow_raincoat_with_blue_polka_dots", c("HeadNoun")] <- "raincoat"
+1597415378093:##########################################################
+1597415378097:######################### sandal #########################
+1597415378097:Data[Data$Dyad=="D04" & Data$PictureName=="sandal", c("Description")]
+1597415404792:# "shoe_with_holes_on_side" "sandal"                  "sandal"                  "sandal_shoe"
+1597415404798:Data[Data$Dyad=="D04" & Data$PictureName=="sandal" & Data$Description == "shoe_with_holes_on_side", c("HeadNoun")] <- "shoe"
+1597415429188:Data[Data$Dyad=="D09" & Data$PictureName=="sandal", c("Description")]
+1597415466835:Data[Data$Dyad=="D14" & Data$PictureName=="sandal", c("Description")]
+1597415482649:Data[Data$Dyad=="D14" & Data$PictureName=="sandal", c("Description")]
+1597415612112:Data[Data$Dyad=="D14" & Data$PictureName=="sandal" & Data$Description == "old_man_sandal_no_laces_with_pull_contraption", c("HeadNoun")] <- "sandal"
+1597415612114:Data[Data$Dyad=="D14" & Data$PictureName=="sandal" & Data$Description == "sandal_with_string_pull_at_front_no_laces", c("HeadNoun")] <- "sandal"
+1597415636374:Data[Data$Dyad=="D18" & Data$PictureName=="sandal", c("Description")]
+1597415670128:# "hiking_shoe_with_holes"       "brown_hiking_shoe_with_holes" "hiking_shoe"
+1597415670128:Data[Data$Dyad=="D18" & Data$PictureName=="sandal", c("HeadNoun")] <- "shoe"
+1597415686558:Data[Data$Dyad=="D21" & Data$PictureName=="sandal", c("Description")]
+1597415739494:# "brown_sandal"                        "brown_sandal_with_black_pull_string" "brown_sandals_with_pull_string"
+1597415739495:Data[Data$Dyad=="D21" & Data$PictureName=="sandal", c("HeadNoun")] <- "sandal"
+1597415840234:##########################################################
+1597415840240:######################### sneaker ########################
+1597415840240:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker", c("Description")]
+1597415900874:# "van_shoe_black_with_white_stripe" "black_sneaker_with_white_strip"   "vans"        "vans"
+1597415900880:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker" & Data$Description == "black_sneaker_with_white_strip", c("Description")] <- "black_sneaker_with_white_stripe"
+1597415917780:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker" & Data$Description == "black_sneaker_with_white_strip", c("HeadNoun")] <- "sneaker"
+1597415931696:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker" & Data$Description == "van_shoe_black_with_white_stripe", c("HeadNoun")] <- "shoe"
+1597415956840:Data[Data$Dyad=="D09" & Data$PictureName=="sneaker", c("Description")]
+1597416012877:# "vans_shoe_black_with_white_stripe" "black_and_white_vans"
+1597416012878:Data[Data$Dyad=="D09" & Data$PictureName=="sneaker" & Data$Description == "vans_shoe_black_with_white_stripe", c("HeadNoun")] <- "shoe"
+1597416040943:Data[Data$Dyad=="D10" & Data$PictureName=="sneaker", c("Description")]
+1597416098508:# "unintelligable_school_sneakers"              "low_cut_unintelligable_school_sneakers"
+1597416098514:# "unintelligable's_first_low_cut_school_sneakers_last_year's"      "low_cut_black_sneakers"
+1597416098514:Data[Data$Dyad=="D10" & Data$PictureName=="sneaker", c("HeadNoun")] <- "sneakers"
+1597416121387:Data[Data$Dyad=="D14" & Data$PictureName=="sneaker", c("Description")]
+1597416169735:# "black_sneaker_looks_like_vans"         "sneaker"             "vans_sneaker"
+1597416169740:# "black_vans_sneaker"                   "black_vans_sneaker_with_white_strings"
+1597416169741:Data[Data$Dyad=="D14" & Data$PictureName=="sneaker" & Data$Description == "black_sneaker_looks_like_vans", c("HeadNoun")] <- "sneaker"
+1597416196352:Data[Data$Dyad=="D14" & Data$PictureName=="sneaker" & Data$Description == "black_vans_sneaker_with_white_strings", c("HeadNoun")] <- "sneaker"
+1597416253103:##########################################################
+1597416253109:######################### sunhat #########################
+1597416253109:Data[Data$Dyad=="D02" & Data$PictureName=="sunhat", c("Description")]
+1597416289714:# "tan_with_black_ribbon_female_hat" "farm_hat_brown_with_black_stripe" "straw_hat"
+1597416289721:Data[Data$Dyad=="D02" & Data$PictureName=="sunhat" & Data$Description == "farm_hat_brown_with_black_stripe", c("HeadNoun")] <- "hat"
+1597416327177:Data[Data$Dyad=="D03" & Data$PictureName=="sunhat", c("Description")]
+1597416348536:# "straw_hat_with_black_ribbon" "straw_hat_black_ribbon"
+1597416348537:Data[Data$Dyad=="D03" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416358248:Data[Data$Dyad=="D04" & Data$PictureName=="sunhat", c("Description")]
+1597416383756:# "gardeners_hat"               "hat_with_black_thing_around" "fishers_hat"
+1597416383762:# "wicker_hat"                  "wicker_gardening_hat"
+1597416383762:Data[Data$Dyad=="D04" & Data$PictureName=="sunhat" & Data$Description == "hat_with_black_thing_around", c("HeadNoun")] <- "hat"
+1597416401347:Data[Data$Dyad=="D05" & Data$PictureName=="sunhat", c("Description")]
+1597416457205:# "black_mat_straw_hat"     "black_band_straw_hat"    "black_band_straw_hat"    "black_band_straw_hat"
+1597416457205:# "black_band_straw_hat"    "summer_sun_hat"          "sun_hat_with_black_band" "beachy_type_hat"
+1597416457210:Data[Data$Dyad=="D05" & Data$PictureName=="sunhat" & Data$Description == "sun_hat_with_black_band", c("HeadNoun")] <- "hat"
+1597416470741:Data[Data$Dyad=="D07" & Data$PictureName=="sunhat", c("Description")]
+1597416499300:# "tan_hat_with_black_ribbon" "tan_hat_with_scarf"
+1597416499301:Data[Data$Dyad=="D07" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416530110:Data[Data$Dyad=="D08" & Data$PictureName=="sunhat", c("Description")]
+1597416539441:Data[Data$Dyad=="D09" & Data$PictureName=="sunhat", c("Description")]
+1597416553417:# "tan_wicker_hat_with_black_little_thing_around_it" "ugly_wicker_hat_with_bow_on_it"
+1597416553423:Data[Data$Dyad=="D09" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416563759:Data[Data$Dyad=="D10" & Data$PictureName=="sunhat", c("Description")]
+1597416578846:# "church_hat_with_black"        "church_hat_with_black_around"
+1597416578848:Data[Data$Dyad=="D10" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416590874:Data[Data$Dyad=="D11" & Data$PictureName=="sunhat", c("Description")]
+1597416614706:# "hat"                                      "ladies_tan_hat_with_black_band_around_it"
+1597416614706:Data[Data$Dyad=="D11" & Data$PictureName=="sunhat" & Data$Description == "ladies_tan_hat_with_black_band_around_it", c("HeadNoun")] <- "hat"
+1597416625608:Data[Data$Dyad=="D14" & Data$PictureName=="sunhat", c("Description")]
+1597416694347:# "woman's_straw_hat_with_black_scarf_tied_around_it" "straw_hat_with_black_ribbon"  "female_hat"
+1597416694353:Data[Data$Dyad=="D14" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416706259:Data[Data$Dyad=="D16" & Data$PictureName=="sunhat", c("Description")]
+1597416725236:# "tan_hat_with_black_ribbon_around_it" "tan_hat_with_ribbon"
+1597416725237:Data[Data$Dyad=="D16" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416740636:Data[Data$Dyad=="D17" & Data$PictureName=="sunhat", c("Description")]
+1597416867298:# "tan_hat_with_black_strap" "black_strap"              "black_tan_hat"      "tan_hat"    "tan_hat_with_black"
+1597416867300:Data[Data$Dyad=="D17" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416870762:Data[Data$Dyad=="D17" & Data$PictureName=="sunhat" & Data$Description == "black_strap", c("HeadNoun")] <- "strap"
+1597416889618:Data[Data$Dyad=="D18" & Data$PictureName=="sunhat", c("Description")]
+1597416905768:# "straw_hat_with_black_ribbon" "straw_hat_with_black_thing"
+1597416905773:Data[Data$Dyad=="D18" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597416920544:Data[Data$Dyad=="D21" & Data$PictureName=="sunhat", c("Description")]
+1597416933003:# "straw_hat_black_tie"       "straw_hat_with_black_band"
+1597416933004:Data[Data$Dyad=="D21" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597417082601:Data[Data$Dyad=="D02" & Data$PictureName=="swissarmyknife", c("Description")]
+1597417263723:##########################################################
+1597417263723:##################### swissarmyknife #####################
+1597417263724:Data[Data$Dyad=="D14" & Data$PictureName=="swissarmyknife", c("Description")]
+1597417293195:# "utility_knife_with_red_handle"     "utility_knife_with_red_handle_with_all_the_different_things" "utility_knife"
+1597417293195:Data[Data$Dyad=="D14" & Data$PictureName=="swissarmyknife", c("HeadNoun")] <- "knife"
+1597417311340:Data[Data$Dyad=="D20" & Data$PictureName=="swissarmyknife", c("Description")]
+1597417417036:# "box_cutter"                 "knife_set"        "knife_set_has_five_different_kinds_of_knives"      "knife_set"
+1597417417037:Data[Data$Dyad=="D20" & Data$PictureName=="swissarmyknife" & Data$Description == "knife_set", c("HeadNoun")] <- "knife"
+1597417434311:Data[Data$Dyad=="D22" & Data$PictureName=="swissarmyknife", c("Description")]
+1597417482193:# "pocket_knife_thingy_with_multi-task_situation" "multi_pocket_knife"
+1597417482199:Data[Data$Dyad=="D22" & Data$PictureName=="swissarmyknife" & Data$Description == "pocket_knife_thingy_with_multi-task_situation", c("HeadNoun")] <- "knife"
+1597417602345:##########################################################
+1597417602347:######################## tanktop #########################
+1597417602347:Data[Data$Dyad=="D02" & Data$PictureName=="tanktop", c("Description")]
+1597417645686:# "girl's_pink_tshirt_arms_out" "pink_women's_tshirt"
+1597417645686:Data[Data$Dyad=="D02" & Data$PictureName=="tanktop" & Data$Description == "girl's_pink_tshirt_arms_out", c("HeadNoun")] <- "tshirt"
+1597417666625:Data[Data$Dyad=="D06" & Data$PictureName=="tanktop", c("Description")]
+1597417680590:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop", c("Description")]
+1597417707769:# "pink_female_t-shirt"            "pink_female_t-shirt_no_sleeves" "sleeveless_pink_female_tshirt"
+1597417707769:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop" & Data$Description == "pink_female_t-shirt_no_sleeves", c("HeadNoun")] <- "tshirt"
+1597417759552:# "pink_female_t-shirt"            "pink_female_t-shirt_no_sleeves" "sleeveless_pink_female_tshirt"
+1597417759558:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop" & Data$Description == "pink_female_t-shirt_no_sleeves", c("Description")] <- "pink_female_tshirt_no_sleeves"
+1597419346319:##########################################################
+1597419346326:##################### utilityknife #######################
+1597419346326:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife", c("Description")]
+1597419416704:# "carpet_cutter_knife_orange" "box_cutter_orange"          "orange_knife"
+1597419416712:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "carpet_cutter_knife_orange", c("Description")] <- "cutter"
+1597419440661:Data[Data$Dyad=="D03" & Data$PictureName=="utilityknife", c("Description")]
+1597419532071:Data[Data$Dyad=="D05" & Data$PictureName=="utilityknife", c("Description")]
+1597419642249:Data[Data$Dyad=="D05" & Data$PictureName=="utilityknife", c("Description")]
+1597419651103:Data[Data$Dyad=="D11" & Data$PictureName=="utilityknife", c("Description")]
+1597419665654:# "orange_thing"    "orange_box_cutter_blade_out" "box_cutter"   "orange_box_cutter"
+1597419665659:Data[Data$Dyad=="D05" & Data$PictureName=="utilityknife" & Data$Description == "orange_box_cutter_blade_out", c("Description")] <- "cutter"
+1597419670772:# "cutting_knife_slide_up_and_down" "xacto_knife"     "orange_xacto_knife"  "orange_xacto_knife"
+1597419670774:Data[Data$Dyad=="D03" & Data$PictureName=="utilityknife" & Data$Description == "cutting_knife_slide_up_and_down", c("Description")] <- "knife"
+1597419676513:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "box_cutter_orange", c("Description")] <- "cutter"
+1597419710582:Data[Data$Dyad=="D17" & Data$PictureName=="utilityknife", c("Description")]
+1597420018766:##########################################################
+1597420018772:##################### winterboot #########################
+1597420018772:Data[Data$Dyad=="D01" & Data$PictureName=="winterboot", c("Description")]
+1597420071559:# "cutting_knife_slide_up_and_down" "xacto_knife"     "orange_xacto_knife"  "orange_xacto_knife"
+1597420071564:Data[Data$Dyad=="D03" & Data$PictureName=="utilityknife" & Data$Description == "cutting_knife_slide_up_and_down", c("Description")] <- "cutting_knife_slide_up_and_down"
+1597420084161:# "cutting_knife_slide_up_and_down" "xacto_knife"     "orange_xacto_knife"  "orange_xacto_knife"
+1597420084167:Data[Data$Dyad=="D03" & Data$PictureName=="utilityknife" & Data$Description == "cutting_knife_slide_up_and_down", c("HeadNoun")] <- "knife"
+1597420107263:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "box_cutter_orange", c("Description")] <- "box_cutter_orange"
+1597420119054:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "box_cutter_orange", c("HeadNoun")] <- "cutter"
+1597420132382:# "carpet_cutter_knife_orange" "box_cutter_orange"          "orange_knife"
+1597420132383:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "carpet_cutter_knife_orange", c("Description")] <- "carpet_cutter_knife_orange"
+1597420143921:# "carpet_cutter_knife_orange" "box_cutter_orange"          "orange_knife"
+1597420143926:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "carpet_cutter_knife_orange", c("HeadNoun")] <- "cutter"
+1597420268050:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "cutter", c("Description")] <- "box_cutter_orange"
+1597420400816:Data <- merge(Coding_data, TrialDesignVideoCode_datC, by.x=c("Dyad", "TrialNbDesign"),
+1597420400818:by.y=c("Dyad", "TrialNb"), all.x=TRUE, all.y=FALSE)
+1597420400841:table(Data$ChoiceEval, useNA="always")
+1597420400851:## The missed trials are no longer represented because there were no descriptions produced on those trials!!
+1597420400851:##write.table(Data, "ToFindNA.txt")
+1597420400852:Data$Role <- ifelse(substr(Data$ContributingSpeaker, 8, 8)==Data$DirectorID, "director",
+1597420400853:ifelse(substr(Data$ContributingSpeaker, 8, 8)==Data$MatcherID, "matcher", "ERROR"))
+1597420400855:nrow(Data[Data$Role=="ERROR", ])
+1597420400857:#BEGIN: Checking that Definiteness and Description are segments that align.
+1597420400857:Data$DescripDefCheck <- ifelse(Data$Onset_sec==Data$Onset_sec_Def, "correct", "ERROR")
+1597420400859:nrow(Data[Data$DescripDefCheck=="ERROR", ])
+1597420400861:# if no issue, delete the column
+1597420400862:Data$DescripDefCheck <- NULL
+1597420400862:#END: Checking that Definiteness and Description are segments that align.
+1597420400863:# Adding an identifier to each speaker
+1597420400865:Data$DyadSpeaker <- paste(Data$Dyad, substr(Data$ContributingSpeaker, 8, 8), sep="-")
+1597420400868:# Distribution of descriptions across roles and mentions
+1597420400870:#BEGIN: checking that there is at least 1 description per trial for director; if not (and those trials are not missing),
+1597420400871:#       the description may have been coded on the wrong tier.
+1597420400871:xtabs(~ Dyad + TrialNbDesign, data=Data[Data$Role=="director" & substr(Data$TrialNbDesign, 1, 1)=="1", ])
+1597420400884:xtabs(~ Dyad + TrialNbDesign, data=Data[Data$Role=="director" & substr(Data$TrialNbDesign, 1, 1)=="2", ])
+1597420400890:#END: checking that there is at least 1 description per trial for director.
+1597420400891:xtabs(~Role + Mention, Data)
+1597420400892:#          Mention
+1597420400892:#Role         1   2
+1597420400892:#  director 806 756
+1597420400892:#  matcher   67  33
+1597420400893:#          92%  96%
+1597420400893:xtabs(~ Dyad + Role + Mention, Data)
+1597420400895:prop.table((xtabs(~ Dyad + Role, Data[Data$Mention=="1", ])), 1)
+1597420400900:prop.table((xtabs(~ Dyad + Role, Data[Data$Mention=="2", ])), 1)
+1597420400903:# how many different descriptions (on average) did each dyad (aggregating between directors and matchers) use on each mention?
+1597420400904:ddply((ddply(Data, .(Dyad, Mention, PictureCode), nrow)), .(Dyad, Mention), summarise, MeanDescripNb = mean(V1))
+1597420401098:# if I average across dyads:
+1597420401098:ddply(ddply((ddply(Data, .(Dyad, Mention, PictureCode), nrow)), .(Dyad, Mention), summarise, MeanDescripNb = mean(V1)), .(Mention), summarise, mean = mean(MeanDescripNb))
+1597420401275:##Mention     mean
+1597420401275:##1       1 1.37
+1597420401277:##2       2 1.23
+1597420401277:## Distribution of the number of descriptions / expressions used by each dyad on mention 1
+1597420401277:table((ddply(Data[Data$Mention=="1", ], .(Dyad, Mention, PictureCode), nrow))$V1, useNA="always")
+1597420401346:#    1    2    3    4    5    6 <NA>
+1597420401346:#  489   89   37   12    7    2    0
+1597420401347:# 489 / 636 (total)= 77% ==> on 77% of the trials, directors offered one description and the trial ended there
+1597420401347:## Distribution of the number of descriptions / expressions used by each dyad on mention 2
+1597420401348:table((ddply(Data[Data$Mention=="2", ], .(Dyad, Mention, PictureCode), nrow))$V1, useNA="always")
+1597420401399:#    1    2    3    4    5    6 <NA>
+1597420401399:#  535   71   26    7    1    0
+1597420401400:# 535 / 640 (total)= 83% ==> on 83% of the trials, directors offered one description and the trial ended there
+1597420401400:## INSPECTING DESCRIPTIONS TO GET A SENSE OF HOW THEY DIFFER ACROSS MENTIONS
+1597420401400:## BEGIN: Saving the data in a text file for visual inspection that can help spot human errors (i.e., when the same content words, but in different orders,
+1597420401400:## were assigned as label for description of the same picture by the same dyad). This also allows to check for cases where two labels differ in number
+1597420401400:## only (e.g., red_heel vs. red_heels) or for typos.
+1597420401401:ToCheckDescriptions <-ddply((ddply(Data, .(Dyad, PictureCode, PictureName, Description), nrow)), .(PictureCode, PictureName, Dyad), summarise, Descriptions=toString(Description))
+1597420402623:# This dataframe can be inspected by clicking on it on the top right window, in the "Environment"
+1597420402623:# tab. It will be displayed in a new tab on the top left window, as it would be in Excel.
+1597420402623:## >>>>>>SUBIN<<<<<
+1597420402624:## Please check that the description associated with each PictureName is a plausible
+1597420402624:## description. If the description seems to apply to another card, please
+1597420528072:## STEP 1: Extracting the head noun as the last string (separated by _) of the description
+1597420528078:## errors are identified and corrected by hand
+1597420528079:## The next line extracts the last 'word' of the field 'Description' and lists it in a new
+1597420528079:## column called 'HeadNoun'
+1597420528080:Data$HeadNoun <- word(Data$Description, -1, sep=fixed("_"))
+1597420528115:Data[c(1:5), c('Description', 'HeadNoun')]
+1597420528116:# Now creating a dataframe that will allow me to spot the problems with this
+1597420528116:# 'last-word-is-head-noun' method.
+1597420528116:ToCheckHeadNouns <-ddply((ddply(Data, .(Dyad, PictureName, HeadNoun), nrow)), .(PictureName, Dyad), summarise, HeadNouns=toString(HeadNoun))
+1597420529433:## How to fix issues that the file ToCheckHeadNouns reveal:
+1597420529434:## For instance, D10, for the picturename 'baseballhat', has 'pocketknife' as head noun. That
+1597420529439:## cannot be correct.
+1597420529440:## First, list the Descriptions:
+1597420529440:Data[Data$Dyad=="D10" & Data$PictureName=="baseballhat", c("Description")]
+1597420529441:#"hat_same_color_as_pocketknife" "red_cap"                       "baseball_cap"
+1597420529441:## The one to manually change is 'hat_same_color_as_pocketknife', with head noun as 'hat'.
+1597420529441:## Next, change the head noun from 'pocketknife' to 'hat'
+1597420529442:Data[Data$Dyad=="D10" & Data$PictureName=="baseballhat" & Data$Description=="hat_same_color_as_pocketknife", c("HeadNoun")] <- "hat"
+1597420529442:## !!! SUBIN: DO THE SAME FOR EACH OF THE PROBLEMS YOU FIND.
+1597420529443:###################### BLOUSE ######################
+1597420529444:Data[Data$Dyad=="D02" & Data$PictureName=="blouse", c("Description")]
+1597420529444:# "green_female_blouse_with_bow" "green_blouse_with_bow"
+1597420529445:Data[Data$Dyad=="D02" & Data$PictureName=="blouse", c("HeadNoun")] <- "blouse"
+1597420529445:Data[Data$Dyad=="D03" & Data$PictureName=="blouse", c("Description")]
+1597420529445:# "green_shirt_with_bow" "green_shirt_with_bow"
+1597420529446:Data[Data$Dyad=="D03" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597420529446:Data[Data$Dyad=="D04" & Data$PictureName=="blouse", c("Description")]
+1597420529447:# "green_top"            "green_shirt"          "green_shirt_with_bow" "green_top_with_bow"
+1597420529447:Data[Data$Dyad=="D04" & Data$PictureName=="blouse" & Data$Description == "green_shirt_with_bow", c("HeadNoun")] <- "shirt"
+1597420529447:Data[Data$Dyad=="D04" & Data$PictureName=="blouse" & Data$Description == "green_top_with_bow", c("HeadNoun")] <- "top"
+1597420529448:Data[Data$Dyad=="D09" & Data$PictureName=="blouse", c("Description")]
+1597420529448:# "green_dress" "green_dress" "green_dress"
+1597420529448:Data[Data$Dyad=="D09" & Data$PictureName=="blouse", c("HeadNoun")] <- "blouse"
+1597420529449:Data[Data$Dyad=="D14" & Data$PictureName=="blouse", c("Description")]
+1597420529449:# "green_womans_shirt_with_bow_at_front" "female_green_shirt_with_bow_in_front"
+1597420529449:Data[Data$Dyad=="D14" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597420529450:Data[Data$Dyad=="D16" & Data$PictureName=="blouse", c("Description")]
+1597420529450:# "green_shirt_with_bow_tie" "green_with_bow"
+1597420529450:Data[Data$Dyad=="D16" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597420529451:Data[Data$Dyad=="D21" & Data$PictureName=="blouse", c("Description")]
+1597420529452:# "green_shirt_with_bow"        "green_female_shirt_with_bow"
+1597420529452:Data[Data$Dyad=="D21" & Data$PictureName=="blouse", c("HeadNoun")] <- "shirt"
+1597420529453:##########################################################
+1597420529453:###################### BUTTERSCOTCH ######################
+1597420529453:Data[Data$Dyad=="D04" & Data$PictureName=="butterscotch", c("Description")]
+1597420529454:#  "little_candy"        "lozenge"              "lozenge"               "orange_lozenge_with_yellow_wrapper"
+1597420529454:Data[Data$Dyad=="D04" & Data$PictureName=="butterscotch" & Data$Description == "orange_lozenge_with_yellow_wrapper", c("HeadNoun")] <- "lozenge"
+1597420529456:Data[Data$Dyad=="D05" & Data$PictureName=="butterscotch", c("Description")]
+1597420529456:# "butterscotch_candy"           "yellow_hard_candy"            "yellow_hard_candy_in_wrapper"
+1597420529457:Data[Data$Dyad=="D05" & Data$PictureName=="butterscotch" & Data$Description == "yellow_hard_candy_in_wrapper", c("HeadNoun")] <- "candy"
+1597420529457:Data[Data$Dyad=="D06" & Data$PictureName=="butterscotch", c("Description")]
+1597420529458:# "candy"                          "yellow_candy"                   "yellow_candy_twist_up_in_paper"
+1597420529458:Data[Data$Dyad=="D06" & Data$PictureName=="butterscotch" & Data$Description == "yellow_candy_twist_up_in_paper", c("HeadNoun")] <- "candy"
+1597420529458:Data[Data$Dyad=="D09" & Data$PictureName=="butterscotch", c("Description")]
+1597420529459:# "yellow_werther's_candy_or_cheap_generic_kind" "butterscotch_candy"
+1597420529459:Data[Data$Dyad=="D09" & Data$PictureName=="butterscotch" & Data$Description == "yellow_werther's_candy_or_cheap_generic_kind", c("HeadNoun")] <- "candy"
+1597420529459:Data[Data$Dyad=="D10" & Data$PictureName=="butterscotch", c("Description")]
+1597420529460:# "old_school_candy"         "old_school_candy_you_eat" "butterscotch_candy"
+1597420529460:Data[Data$Dyad=="D10" & Data$PictureName=="butterscotch" & Data$Description == "old_school_candy_you_eat", c("HeadNoun")] <- "candy"
+1597420529460:Data[Data$Dyad=="D14" & Data$PictureName=="butterscotch", c("Description")]
+1597420529461:# "nasty_candy_that_looks_like_a_goldfish"      "butterscotch"      "butterscotch"      "butterscotch_yellow_candy_in_yellow_wrapper"
+1597420529461:Data[Data$Dyad=="D14" & Data$PictureName=="butterscotch" & Data$Description == "nasty_candy_that_looks_like_a_goldfish", c("HeadNoun")] <- "candy"
+1597420529461:Data[Data$Dyad=="D14" & Data$PictureName=="butterscotch" & Data$Description == "butterscotch_yellow_candy_in_yellow_wrapper", c("HeadNoun")] <- "candy"
+1597420529462:Data[Data$Dyad=="D19" & Data$PictureName=="butterscotch", c("Description")]
+1597420529462:# "orange_candy_thingish" "butterscotch_candy"
+1597420529462:Data[Data$Dyad=="D19" & Data$PictureName=="butterscotch" & Data$Description == "orange_candy_thingish", c("HeadNoun")] <- "candy"
+1597420529462:Data[Data$Dyad=="D20" & Data$PictureName=="butterscotch", c("Description")]
+1597420529463:# "piece_of_candy"            "peppermint"                "yellow_candy"              "red_candy"
+1597420529463:# "piece_of_candy"            "tan_orange_candy"          "orange_candy_with_wrapper"
+1597420529463:Data[Data$Dyad=="D20" & Data$PictureName=="butterscotch" & Data$Description == "orange_candy_with_wrapper", c("HeadNoun")] <- "candy"
+1597420529463:##########################################################
+1597420529464:####################### BUTTONDOWN #######################
+1597420529464:Data[Data$Dyad=="D02" & Data$PictureName=="buttondown", c("Description")]
+1597420529464:# "tan_men's_shirt_button_down" "tan_men's_shirt_button_down"
+1597420529464:Data[Data$Dyad=="D02" & Data$PictureName=="buttondown", c("HeadNoun")] <- "shirt"
+1597420529465:Data[Data$Dyad=="D09" & Data$PictureName=="buttondown", c("Description")]
+1597420529465:# "tan_button_down_collared_long_sleeve" "tan_button_down_long_sleeve"
+1597420529465:Data[Data$Dyad=="D09" & Data$PictureName=="buttondown", c("HeadNoun")] <- "buttondown"
+1597420529466:Data[Data$Dyad=="D14" & Data$PictureName=="buttondown", c("Description")]
+1597420529466:# "tan_collared_shirt"   "long_sleeve_tan_collared_shirt"   "tan_button_up_collar_shirt_long_sleeve_with_pocket_on_front"
+1597420529466:Data[Data$Dyad=="D14" & Data$PictureName=="buttondown" & Data$Description == "tan_button_up_collar_shirt_long_sleeve_with_pocket_on_front", c("HeadNoun")] <- "shirt"
+1597420529467:Data[Data$Dyad=="D17" & Data$PictureName=="buttondown", c("Description")]
+1597420529467:# "tan_long_sleeve" "brown_button_up"
+1597420529467:Data[Data$Dyad=="D17" & Data$PictureName=="buttondown", c("HeadNoun")] <- "shirt"
+1597420529468:Data[Data$Dyad=="D21" & Data$PictureName=="buttondown", c("Description")]
+1597420529469:# "tan_button_up_with_pocket" "tan_button_up_with_pocket"
+1597420529469:Data[Data$Dyad=="D21" & Data$PictureName=="buttondown", c("HeadNoun")] <- "buttonup"
+1597420529469:##########################################################
+1597420529469:####################### cowboyboot #######################
+1597420529470:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot", c("Description")]
+1597420529470:# "brown_cowboy_boot"         "brown_cowboy_boot"       "brown_cowboy_boot_with_design_on_front"
+1597420529470:Data[Data$Dyad=="D14" & Data$PictureName=="cowboyboot" & Data$Description == "brown_cowboy_boot_with_design_on_front", c("HeadNoun")] <- "boot"
+1597420529470:##########################################################
+1597420529471:####################### cowboyhat ########################
+1597420529471:Data[Data$Dyad=="D07" & Data$PictureName=="cowboyhat", c("Description")]
+1597420529471:# "brown_item_with_silver_lining" "top_piece"                     "brown_cowboy_hat"
+1597420529471:Data[Data$Dyad=="D07" & Data$PictureName=="cowboyhat" & Data$Description == "brown_item_with_silver_lining", c("HeadNoun")] <- "item"
+1597420529472:##########################################################
+1597420529472:####################### dressshoe ########################
+1597420529472:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe", c("Description")]
+1597420529473:# "brown_mans_shoe_shoelaces"       "brown_mans_shoe_black_shoelaces"
+1597420529474:Data[Data$Dyad=="D05" & Data$PictureName=="dressshoe", c("HeadNoun")] <- "shoe"
+1597420529474:Data[Data$Dyad=="D07" & Data$PictureName=="dressshoe", c("Description")]
+1597420529474:# "brown_shoe_that_i_would_wear" "brown_shoe"
+1597420529475:Data[Data$Dyad=="D07" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_that_i_would_wear", c("HeadNoun")] <- "shoe"
+1597420529475:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe", c("Description")]
+1597420529475:# "sandal"                              "shoe"                                "brown_old_mans_shoe"
+1597420529476:# "shoe_like_bert_and_ernie_with_laces" "shoe"                                "brown_shoe_with_five_laces"
+1597420529476:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe" & Data$Description == "shoe_like_bert_and_ernie_with_laces", c("HeadNoun")] <- "shoe"
+1597420529476:Data[Data$Dyad=="D21" & Data$PictureName=="dressshoe" & Data$Description == "brown_shoe_with_five_laces", c("HeadNoun")] <- "shoe"
+1597420529477:##########################################################
+1597420529477:####################### fancyboot ########################
+1597420529477:Data[Data$Dyad=="D01" & Data$PictureName=="fancyboot", c("Description")]
+1597420529477:# "high_heeled_shoe_kneehigh" "knee_boot"                 "knee_boot"
+1597420529477:Data[Data$Dyad=="D01" & Data$PictureName=="fancyboot" & Data$Description == "high_heeled_shoe_kneehigh", c("HeadNoun")] <- "shoe"
+1597420529478:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot", c("Description")]
+1597420529478:# "long_high_heel"       "high_heel_boot_black" "high_heel_boot_black" "long_high_heel"
+1597420529478:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot", c("HeadNoun")] <- "highheel"
+1597420529479:Data[Data$Dyad=="D02" & Data$PictureName=="fancyboot" & Data$Description == "high_heel_boot_black", c("HeadNoun")] <- "boot"
+1597420529479:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot", c("Description")]
+1597420529479:# "something_you_would_wear_when_we_go_out_to_the_bar_on_your_feet" "same_boots_to_the_bar"
+1597420529480:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot" & Data$Description == "something_you_would_wear_when_we_go_out_to_the_bar_on_your_feet", c("HeadNoun")] <- "something"
+1597420529480:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot" & Data$Description == "same_boots_to_the_bar", c("HeadNoun")] <- "boots"
+1597420529480:Data[Data$Dyad=="D16" & Data$PictureName=="fancyboot", c("Description")]
+1597420529481:# "black_boot"                          "black_knee_high_boot"                "black_knee_high_boot_with_one_strap"
+1597420529481:Data[Data$Dyad=="D16" & Data$PictureName=="fancyboot" & Data$Description == "black_knee_high_boot_with_one_strap", c("HeadNoun")] <- "boot"
+1597420529481:Data[Data$Dyad=="D17" & Data$PictureName=="fancyboot", c("Description")]
+1597420529482:# "black_long_boot"                     "black_long_boot_with_heel_and_strap" "black_long_boot"
+1597420529482:# "long_black_boot"                     "long_black_boot_with_heel"
+1597420529482:Data[Data$Dyad=="D21" & Data$PictureName=="fancyboot", c("HeadNoun")] <- "boot"
+1597420529482:Data[Data$Dyad=="D21" & Data$PictureName=="fancyboot", c("Description")]
+1597420529483:# "black_boot_with_buckle_at_top"               "black_boot_2_3_inch_heel_with_buckle_at_top"
+1597420529483:# "boot_with_buckle_at_top"                     "black_boot_with_buckle_at_top_with_heel"   "black_boot"
+1597420529483:Data[Data$Dyad=="D21" & Data$PictureName=="fancyboot", c("HeadNoun")] <- "boot"
+1597420529483:Data[Data$Dyad=="D22" & Data$PictureName=="fancyboot", c("Description")]
+1597420529484:# "stiletto"            "boot"                "black_boot"          "stiletto"            "stiletto_black_heel"
+1597420529484:Data[Data$Dyad=="D22" & Data$PictureName=="fancyboot" & Data$Description == "stiletto_black_heel", c("HeadNoun")] <- "stiletto"
+1597420529484:##########################################################
+1597420529484:######################## furcoat #########################
+1597420529484:Data[Data$Dyad=="D05" & Data$PictureName=="furcoat", c("Description")]
+1597420529485:# "complete_ladies_fur_coat"       "standard_ladies_fur_coat_fairly_long_just_above_knees"    "ladies_fur_coat"
+1597420529485:Data[Data$Dyad=="D05" & Data$PictureName=="furcoat" & Data$Description == "standard_ladies_fur_coat_fairly_long_just_above_knees", c("HeadNoun")] <- "coat"
+1597420529485:##########################################################
+1597420529485:####################### hersheykiss ######################
+1597420529486:Data[Data$Dyad=="D19" & Data$PictureName=="hersheykiss", c("Description")]
+1597420529486:# "candy"        "candy_with_and_without_wrapper" "kisses"  "aluminum_foil_candy"  "aluminum_foil_candy"
+1597420529486:Data[Data$Dyad=="D19" & Data$PictureName=="hersheykiss" & Data$Description == "candy_with_and_without_wrapper", c("HeadNoun")] <- "candy"
+1597420529487:Data[Data$Dyad=="D21" & Data$PictureName=="hersheykiss", c("Description")]
+1597420529487:# "hershey's_kiss_one_open_one_not"          "hershey's_kiss_one_wrapped_one_unwrapped"
+1597420529487:Data[Data$Dyad=="D21" & Data$PictureName=="hersheykiss", c("HeadNoun")] <- "kiss"
+1597420529488:##########################################################
+1597420529488:####################### kitchenknife #####################
+1597420529488:Data[Data$Dyad=="D07" & Data$PictureName=="kitchenknife", c("Description")]
+1597420529488:# "silver_titanium_with_handle_sharp" "butcher_knife"                     "butcher_knife"
+1597420529488:Data[Data$Dyad=="D07" & Data$PictureName=="kitchenknife" & Data$Description == "silver_titanium_with_handle_sharp", c("HeadNoun")] <- "titanium"
+1597420529489:Data[Data$Dyad=="D14" & Data$PictureName=="kitchenknife", c("Description")]
+1597420529489:# "butcher_knife_with_black_handle"     "sharp_kitchen_knife"         "sharp_kitchen_knife_with_black_handle"
+1597420529489:# "sharp_knife_with_black_handle_with_hells_kitchen_symbol"     "sharp_knife_with_black_handle_with_trident"
+1597420529490:Data[Data$Dyad=="D14" & Data$PictureName=="kitchenknife", c("HeadNoun")] <- "knife"
+1597420529491:##########################################################
+1597420529491:######################## lollipop ########################
+1597420529491:Data[Data$Dyad=="D10" & Data$PictureName=="lollipop", c("Description")]
+1597420529492:# "something_amani_likes_to_eat" "red_taffy"
+1597420529492:Data[Data$Dyad=="D10" & Data$PictureName=="lollipop", c("HeadNoun")] <- "something"
+1597420529492:Data[Data$Dyad=="D14" & Data$PictureName=="lollipop", c("Description")]
+1597420529492:# "red_lollipop"                        "red_lollipop_candy_with_white_stick"
+1597420529493:Data[Data$Dyad=="D14" & Data$PictureName=="lollipop" & Data$Description == "red_lollipop_candy_with_white_stick", c("HeadNoun")] <- "candy"
+1597420529493:Data[Data$Dyad=="D16" & Data$PictureName=="lollipop", c("Description")]
+1597420529494:Data[Data$Dyad=="D16" & Data$PictureName=="lollipop" & Data$Description == "red_lolipop", c("Description")] <- "red_lollipop"
+1597420529494:Data[Data$Dyad=="D21" & Data$PictureName=="lollipop", c("Description")]
+1597420529495:# "red_lollipop_white_stick"        "single_red_lollipop_white_stick" "one_lollipop"      "lollipop"
+1597420529495:Data[Data$Dyad=="D21" & Data$PictureName=="lollipop" & Data$Description == "red_lollipop_white_stick", c("HeadNoun")] <- "lollipop"
+1597420529495:##########################################################
+1597420529495:######################## longsleeve ######################
+1597420529495:Data[Data$Dyad=="D16" & Data$PictureName=="longsleeve", c("Description")]
+1597420529496:# "brown_and_white_long_sleeve_shirt"      "brown_and_white_shirt"      "brown_and_white_shirt_with_the_stripes"
+1597420529497:Data[Data$Dyad=="D16" & Data$PictureName=="longsleeve" & Data$Description == "brown_and_white_shirt_with_the_stripes", c("HeadNoun")] <- "shirt"
+1597420529497:Data[Data$Dyad=="D19" & Data$PictureName=="longsleeve", c("Description")]
+1597420529498:# "shirt"                  "shirt_with_stripes"     "red_shirt"              "red_shirt_with_stripes"
+1597420529498:Data[Data$Dyad=="D19" & Data$PictureName=="longsleeve" & Data$Description == "shirt_with_stripes", c("HeadNoun")] <- "shirt"
+1597420529498:Data[Data$Dyad=="D19" & Data$PictureName=="longsleeve" & Data$Description == "red_shirt_with_stripes", c("HeadNoun")] <- "shirt"
+1597420529499:Data[Data$Dyad=="D21" & Data$PictureName=="longsleeve", c("Description")]
+1597420529499:# "burgundy_shirt_with_white_stripes" "burgundy_shirt_with_white_stripes"
+1597420529499:Data[Data$Dyad=="D21" & Data$PictureName=="longsleeve", c("HeadNoun")] <- "shirt"
+1597420529500:##########################################################
+1597420529500:######################## metalchair #####################
+1597420529500:Data[Data$Dyad=="D10" & Data$PictureName=="metalchair", c("Description")]
+1597420529500:# "something_you_sit_in" "cook_out_chair"       "fold_up_chair"
+1597420529501:Data[Data$Dyad=="D10" & Data$PictureName=="metalchair" & Data$Description == "something_you_sit_in", c("HeadNoun")] <- "something"
+1597420529501:Data[Data$Dyad=="D14" & Data$PictureName=="metalchair", c("Description")]
+1597420529502:# "church_chair"        "always_cold_or_hot_when_in_sun"        "chair_everyone_sits_in_when_church_overflows"
+1597420529502:# "tannish_brown_chair_everyone_sits_in_when_church_overflows"  "church_chair"      "folding_chair"     "church_chair"
+1597420529502:# "folding_chair"     "folding_chair"
+1597420529502:Data[Data$Dyad=="D14" & Data$PictureName=="metalchair", c("HeadNoun")] <- "chair"
+1597420529503:Data[Data$Dyad=="D19" & Data$PictureName=="metalchair", c("Description")]
+1597420529503:# "folding_chair"    "chair_in_my_room"
+1597420529503:Data[Data$Dyad=="D19" & Data$PictureName=="metalchair" & Data$Description == "chair_in_my_room", c("HeadNoun")] <- "chair"
+1597420529503:##########################################################
+1597420529504:######################## officechair #####################
+1597420529504:Data[Data$Dyad=="D05" & Data$PictureName=="officechair", c("Description")]
+1597420529504:# "arms_rollers_chair"                  "moveable_up_and_down_different_heights_black_office_chair_on_wheels"
+1597420529504:Data[Data$Dyad=="D05" & Data$PictureName=="officechair" & Data$Description == "moveable_up_and_down_different_heights_black_office_chair_on_wheels", c("HeadNoun")] <- "chair"
+1597420529505:Data[Data$Dyad=="D09" & Data$PictureName=="officechair", c("Description")]
+1597420529505:# "comfy_black_office_chair"           "comfy_black_office_chair_with_arms" "comfy_office_chair"
+1597420529505:Data[Data$Dyad=="D09" & Data$PictureName=="officechair" & Data$Description == "comfy_black_office_chair_with_arms", c("HeadNoun")] <- "chair"
+1597420529506:Data[Data$Dyad=="D17" & Data$PictureName=="officechair", c("Description")]
+1597420529506:# "office_chair"             "office_chair_with_wheels" "black_office_chair"
+1597420529506:Data[Data$Dyad=="D17" & Data$PictureName=="officechair" & Data$Description == "office_chair_with_wheels", c("HeadNoun")] <- "chair"
+1597420529507:Data[Data$Dyad=="D21" & Data$PictureName=="officechair", c("Description")]
+1597420529507:# "rolly_chair_three_handles_that_pump_you_up"      "black_chair_three_handle_that_pump_you_up"
+1597420529507:# "black_rolly_chair_three_handle_that_pump_you_up" "black_rolling_office_chair"
+1597420529507:Data[Data$Dyad=="D21" & Data$PictureName=="officechair", c("HeadNoun")] <- "chair"
+1597420529508:##########################################################
+1597420529508:########################### peacoat ######################
+1597420529508:Data[Data$Dyad=="D03" & Data$PictureName=="peacoat", c("Description")]
+1597420529509:# "black_peacoat_double_buttons" "black_peacoat"
+1597420529509:Data[Data$Dyad=="D03" & Data$PictureName=="peacoat" & Data$Description == "black_peacoat_double_buttons", c("HeadNoun")] <- "peacoat"
+1597420529509:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat", c("Description")]
+1597420529510:# "black_wool_coat"             "peacoat"                "black_wool_coat"    "black_wool_coat_two_sets_of_buttons"
+1597420529510:# "black_wool_coat_two_sets_of_buttons_going_up_the_front" "peacoat"
+1597420529510:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat" & Data$Description == "black_wool_coat_two_sets_of_buttons_going_up_the_front", c("HeadNoun")] <- "coat"
+1597420529510:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat" & Data$Description == "black_wool_coat_two_sets_of_buttons", c("HeadNoun")] <- "coat"
+1597420529511:Data[Data$Dyad=="D05" & Data$PictureName=="peacoat", c("Description")]
+1597420529511:# "blackish_blue_front_button_down_navy_peacoat" "black_peacoat_eight_buttons_front_navy_style"
+1597420529511:Data[Data$Dyad=="D05" & Data$PictureName=="peacoat" & Data$Description == "black_peacoat_eight_buttons_front_navy_style", c("HeadNoun")] <- "peacoat"
+1597420529512:Data[Data$Dyad=="D19" & Data$PictureName=="peacoat", c("Description")]
+1597420529512:# "coat"                          "coat_with_collar"              "black_coat_with_collar"
+1597420529512:# "miss_monica_coat"              "coat_she_wears_every_day"      "black_coat_with_black_buttons"
+1597420529512:Data[Data$Dyad=="D19" & Data$PictureName=="peacoat", c("HeadNoun")] <- "coat"
+1597420529513:##########################################################
+1597420529513:######################## peppermint ######################
+1597420529513:Data[Data$Dyad=="D14" & Data$PictureName=="peppermint", c("Description")]
+1597420529513:# "round_peppermint_candy_with_stripes" "peppermint_candy"
+1597420529514:Data[Data$Dyad=="D14" & Data$PictureName=="peppermint" & Data$Description == "round_peppermint_candy_with_stripes", c("HeadNoun")] <- "candy"
+1597420529514:##########################################################
+1597420529514:######################## rainboot ########################
+1597420529514:Data[Data$Dyad=="D14" & Data$PictureName=="rainboot", c("Description")]
+1597420529515:# "blue_rain_boot_with_polka_dots"      "light_blue_rainboot_with_polka_dots"
+1597420529515:Data[Data$Dyad=="D14" & Data$PictureName=="rainboot", c("HeadNoun")] <- "rainboot"
+1597420529516:Data[Data$Dyad=="D21" & Data$PictureName=="rainboot", c("Description")]
+1597420529516:# "same_color_as_this_building_rainboot_with_white_polka_dots"    "greenish_rainboot_with_polka_dots"
+1597420529517:Data[Data$Dyad=="D21" & Data$PictureName=="rainboot", c("HeadNoun")] <- "rainboot"
+1597420529517:##########################################################
+1597420529517:######################## raincoat ########################
+1597420529517:Data[Data$Dyad=="D10" & Data$PictureName=="raincoat", c("Description")]
+1597420529518:# "something_to_stop_the_rain_from_getting_you_wet" "yellow_rain_jacket"
+1597420529518:Data[Data$Dyad=="D10" & Data$PictureName=="raincoat" & Data$Description == "something_to_stop_the_rain_from_getting_you_wet", c("HeadNoun")] <- "something"
+1597420529518:Data[Data$Dyad=="D21" & Data$PictureName=="raincoat", c("Description")]
+1597420529519:# "yellow_raincoat_with_blue_polka_dots" "yellow_raincoat"
+1597420529519:Data[Data$Dyad=="D21" & Data$PictureName=="raincoat" & Data$Description == "yellow_raincoat_with_blue_polka_dots", c("HeadNoun")] <- "raincoat"
+1597420529519:##########################################################
+1597420529519:######################### sandal #########################
+1597420529520:Data[Data$Dyad=="D04" & Data$PictureName=="sandal", c("Description")]
+1597420529520:# "shoe_with_holes_on_side" "sandal"                  "sandal"                  "sandal_shoe"
+1597420529520:Data[Data$Dyad=="D04" & Data$PictureName=="sandal" & Data$Description == "shoe_with_holes_on_side", c("HeadNoun")] <- "shoe"
+1597420529521:Data[Data$Dyad=="D14" & Data$PictureName=="sandal", c("Description")]
+1597420529522:# "old_man_sandal"       "old_man_sandal_no_laces_with_pull_contraption"      "old_man_shoe"         "sandal"
+1597420529522:# "sandal_with_string_pull_at_front_no_laces"
+1597420529522:Data[Data$Dyad=="D14" & Data$PictureName=="sandal" & Data$Description == "old_man_sandal_no_laces_with_pull_contraption", c("HeadNoun")] <- "sandal"
+1597420529522:Data[Data$Dyad=="D14" & Data$PictureName=="sandal" & Data$Description == "sandal_with_string_pull_at_front_no_laces", c("HeadNoun")] <- "sandal"
+1597420529523:Data[Data$Dyad=="D18" & Data$PictureName=="sandal", c("Description")]
+1597420529523:# "hiking_shoe_with_holes"       "brown_hiking_shoe_with_holes" "hiking_shoe"
+1597420529523:Data[Data$Dyad=="D18" & Data$PictureName=="sandal", c("HeadNoun")] <- "shoe"
+1597420529524:Data[Data$Dyad=="D21" & Data$PictureName=="sandal", c("Description")]
+1597420529524:# "brown_sandal"                        "brown_sandal_with_black_pull_string" "brown_sandals_with_pull_string"
+1597420529524:Data[Data$Dyad=="D21" & Data$PictureName=="sandal", c("HeadNoun")] <- "sandal"
+1597420529524:##########################################################
+1597420529524:######################### sneaker ########################
+1597420529525:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker", c("Description")]
+1597420529525:# "van_shoe_black_with_white_stripe" "black_sneaker_with_white_strip"   "vans"        "vans"
+1597420529525:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker" & Data$Description == "black_sneaker_with_white_strip", c("Description")] <- "black_sneaker_with_white_stripe"
+1597420529526:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker" & Data$Description == "black_sneaker_with_white_strip", c("HeadNoun")] <- "sneaker"
+1597420529526:Data[Data$Dyad=="D02" & Data$PictureName=="sneaker" & Data$Description == "van_shoe_black_with_white_stripe", c("HeadNoun")] <- "shoe"
+1597420529526:Data[Data$Dyad=="D09" & Data$PictureName=="sneaker", c("Description")]
+1597420529527:# "vans_shoe_black_with_white_stripe" "black_and_white_vans"
+1597420529527:Data[Data$Dyad=="D09" & Data$PictureName=="sneaker" & Data$Description == "vans_shoe_black_with_white_stripe", c("HeadNoun")] <- "shoe"
+1597420529527:Data[Data$Dyad=="D10" & Data$PictureName=="sneaker", c("Description")]
+1597420529528:# "unintelligable_school_sneakers"              "low_cut_unintelligable_school_sneakers"
+1597420529528:# "unintelligable's_first_low_cut_school_sneakers_last_year's"      "low_cut_black_sneakers"
+1597420529528:Data[Data$Dyad=="D10" & Data$PictureName=="sneaker", c("HeadNoun")] <- "sneakers"
+1597420529528:Data[Data$Dyad=="D14" & Data$PictureName=="sneaker", c("Description")]
+1597420529529:# "black_sneaker_looks_like_vans"         "sneaker"             "vans_sneaker"
+1597420529529:# "black_vans_sneaker"                   "black_vans_sneaker_with_white_strings"
+1597420529529:Data[Data$Dyad=="D14" & Data$PictureName=="sneaker" & Data$Description == "black_sneaker_looks_like_vans", c("HeadNoun")] <- "sneaker"
+1597420529529:Data[Data$Dyad=="D14" & Data$PictureName=="sneaker" & Data$Description == "black_vans_sneaker_with_white_strings", c("HeadNoun")] <- "sneaker"
+1597420529530:##########################################################
+1597420529530:######################### sunhat #########################
+1597420529530:Data[Data$Dyad=="D02" & Data$PictureName=="sunhat", c("Description")]
+1597420529531:# "tan_with_black_ribbon_female_hat" "farm_hat_brown_with_black_stripe" "straw_hat"
+1597420529531:Data[Data$Dyad=="D02" & Data$PictureName=="sunhat" & Data$Description == "farm_hat_brown_with_black_stripe", c("HeadNoun")] <- "hat"
+1597420529531:Data[Data$Dyad=="D03" & Data$PictureName=="sunhat", c("Description")]
+1597420529531:# "straw_hat_with_black_ribbon" "straw_hat_black_ribbon"
+1597420529532:Data[Data$Dyad=="D03" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529532:Data[Data$Dyad=="D04" & Data$PictureName=="sunhat", c("Description")]
+1597420529532:# "gardeners_hat"               "hat_with_black_thing_around" "fishers_hat"
+1597420529532:# "wicker_hat"                  "wicker_gardening_hat"
+1597420529533:Data[Data$Dyad=="D04" & Data$PictureName=="sunhat" & Data$Description == "hat_with_black_thing_around", c("HeadNoun")] <- "hat"
+1597420529533:Data[Data$Dyad=="D05" & Data$PictureName=="sunhat", c("Description")]
+1597420529533:# "black_mat_straw_hat"     "black_band_straw_hat"    "black_band_straw_hat"    "black_band_straw_hat"
+1597420529534:# "black_band_straw_hat"    "summer_sun_hat"          "sun_hat_with_black_band" "beachy_type_hat"
+1597420529534:Data[Data$Dyad=="D05" & Data$PictureName=="sunhat" & Data$Description == "sun_hat_with_black_band", c("HeadNoun")] <- "hat"
+1597420529534:Data[Data$Dyad=="D07" & Data$PictureName=="sunhat", c("Description")]
+1597420529534:# "tan_hat_with_black_ribbon" "tan_hat_with_scarf"
+1597420529535:Data[Data$Dyad=="D07" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529535:Data[Data$Dyad=="D09" & Data$PictureName=="sunhat", c("Description")]
+1597420529535:# "tan_wicker_hat_with_black_little_thing_around_it" "ugly_wicker_hat_with_bow_on_it"
+1597420529535:Data[Data$Dyad=="D09" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529536:Data[Data$Dyad=="D10" & Data$PictureName=="sunhat", c("Description")]
+1597420529536:# "church_hat_with_black"        "church_hat_with_black_around"
+1597420529536:Data[Data$Dyad=="D10" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529537:Data[Data$Dyad=="D11" & Data$PictureName=="sunhat", c("Description")]
+1597420529537:# "hat"                                      "ladies_tan_hat_with_black_band_around_it"
+1597420529537:Data[Data$Dyad=="D11" & Data$PictureName=="sunhat" & Data$Description == "ladies_tan_hat_with_black_band_around_it", c("HeadNoun")] <- "hat"
+1597420529538:Data[Data$Dyad=="D14" & Data$PictureName=="sunhat", c("Description")]
+1597420529538:# "woman's_straw_hat_with_black_scarf_tied_around_it" "straw_hat_with_black_ribbon"  "female_hat"
+1597420529538:Data[Data$Dyad=="D14" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529538:Data[Data$Dyad=="D16" & Data$PictureName=="sunhat", c("Description")]
+1597420529539:# "tan_hat_with_black_ribbon_around_it" "tan_hat_with_ribbon"
+1597420529539:Data[Data$Dyad=="D16" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529539:Data[Data$Dyad=="D17" & Data$PictureName=="sunhat", c("Description")]
+1597420529540:# "tan_hat_with_black_strap" "black_strap"              "black_tan_hat"      "tan_hat"    "tan_hat_with_black"
+1597420529540:Data[Data$Dyad=="D17" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529540:Data[Data$Dyad=="D17" & Data$PictureName=="sunhat" & Data$Description == "black_strap", c("HeadNoun")] <- "strap"
+1597420529540:Data[Data$Dyad=="D18" & Data$PictureName=="sunhat", c("Description")]
+1597420529541:# "straw_hat_with_black_ribbon" "straw_hat_with_black_thing"
+1597420529541:Data[Data$Dyad=="D18" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529541:Data[Data$Dyad=="D21" & Data$PictureName=="sunhat", c("Description")]
+1597420529542:# "straw_hat_black_tie"       "straw_hat_with_black_band"
+1597420529542:Data[Data$Dyad=="D21" & Data$PictureName=="sunhat", c("HeadNoun")] <- "hat"
+1597420529542:##########################################################
+1597420529542:##################### swissarmyknife #####################
+1597420529542:Data[Data$Dyad=="D14" & Data$PictureName=="swissarmyknife", c("Description")]
+1597420529543:# "utility_knife_with_red_handle"     "utility_knife_with_red_handle_with_all_the_different_things" "utility_knife"
+1597420529543:Data[Data$Dyad=="D14" & Data$PictureName=="swissarmyknife", c("HeadNoun")] <- "knife"
+1597420529543:Data[Data$Dyad=="D20" & Data$PictureName=="swissarmyknife", c("Description")]
+1597420529544:# "box_cutter"                 "knife_set"        "knife_set_has_five_different_kinds_of_knives"      "knife_set"
+1597420529544:Data[Data$Dyad=="D20" & Data$PictureName=="swissarmyknife" & Data$Description == "knife_set", c("HeadNoun")] <- "knife"
+1597420529544:Data[Data$Dyad=="D22" & Data$PictureName=="swissarmyknife", c("Description")]
+1597420529545:# "pocket_knife_thingy_with_multi-task_situation" "multi_pocket_knife"
+1597420529545:Data[Data$Dyad=="D22" & Data$PictureName=="swissarmyknife" & Data$Description == "pocket_knife_thingy_with_multi-task_situation", c("HeadNoun")] <- "knife"
+1597420529545:##########################################################
+1597420529545:######################## tanktop #########################
+1597420529546:Data[Data$Dyad=="D02" & Data$PictureName=="tanktop", c("Description")]
+1597420529546:# "girl's_pink_tshirt_arms_out" "pink_women's_tshirt"
+1597420529546:Data[Data$Dyad=="D02" & Data$PictureName=="tanktop" & Data$Description == "girl's_pink_tshirt_arms_out", c("HeadNoun")] <- "tshirt"
+1597420529546:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop", c("Description")]
+1597420529547:# "pink_female_t-shirt"            "pink_female_t-shirt_no_sleeves" "sleeveless_pink_female_tshirt"
+1597420529547:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop" & Data$Description == "pink_female_t-shirt_no_sleeves", c("Description")] <- "pink_female_tshirt_no_sleeves"
+1597420529547:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop" & Data$Description == "pink_female_t-shirt_no_sleeves", c("HeadNoun")] <- "tshirt"
+1597420529548:##########################################################
+1597420529548:##################### utilityknife #######################
+1597420529548:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife", c("Description")]
+1597420529548:# "carpet_cutter_knife_orange" "box_cutter_orange"          "orange_knife"
+1597420529549:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "carpet_cutter_knife_orange", c("Description")] <- "cutter"
+1597420529549:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "box_cutter_orange", c("HeadNoun")] <- "cutter"
+1597420529549:Data[Data$Dyad=="D03" & Data$PictureName=="utilityknife", c("Description")]
+1597420529550:# "cutting_knife_slide_up_and_down" "xacto_knife"     "orange_xacto_knife"  "orange_xacto_knife"
+1597420529550:Data[Data$Dyad=="D03" & Data$PictureName=="utilityknife" & Data$Description == "cutting_knife_slide_up_and_down", c("HeadNoun")] <- "knife"
+1597420529550:Data[Data$Dyad=="D05" & Data$PictureName=="utilityknife", c("Description")]
+1597420529551:# "orange_thing"    "orange_box_cutter_blade_out" "box_cutter"   "orange_box_cutter"
+1597420529551:Data[Data$Dyad=="D05" & Data$PictureName=="utilityknife" & Data$Description == "orange_box_cutter_blade_out", c("HeadNoun")] <- "cutter"
+1597420529551:##########################################################
+1597420529551:##################### winterboot #########################
+1597420529552:Data[Data$Dyad=="D01" & Data$PictureName=="winterboot", c("Description")]
+1597420529552:# "ugg_boot"           "tall_boot_with_fur" "ugg_boot"           "ugg_boot"
+1597420609703:Data[Data$Dyad=="D09" & Data$PictureName=="blouse", c("Description")]
+1597420625989:Data[Data$Dyad=="D14" & Data$PictureName=="blouse", c("Description")]
+1597420710374:View(ToCheckHeadNouns)
+1597420790321:# "ugg_boot"           "tall_boot_with_fur" "ugg_boot"           "ugg_boot"
+1597420790327:Data[Data$Dyad=="D01" & Data$PictureName=="winterboot" & Data$Description == "tall_boot_with_fur", c("HeadNoun")] <- "boot"
+1597420804868:Data[Data$Dyad=="D02" & Data$PictureName=="winterboot", c("Description")]
+1597420834462:# "winter_female_boot_with_the_fur" "winter_boot_with_the_fur"
+1597420834463:Data[Data$Dyad=="D02" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597420852016:Data[Data$Dyad=="D04" & Data$PictureName=="winterboot", c("Description")]
+1597420867525:# "boot_with_fur"       "black_boot_with_fur"
+1597420867526:Data[Data$Dyad=="D04" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597420902655:Data[Data$Dyad=="D05" & Data$PictureName=="winterboot", c("Description")]
+1597420931196:# "boot_with_fur"      "fur_top_boot"       "black_fur_top_boot" "fur_top_boot"
+1597420931197:Data[Data$Dyad=="D05" & Data$PictureName=="winterboot" & Data$Description == "boot_with_fur", c("HeadNoun")] <- "boot"
+1597420945744:Data[Data$Dyad=="D06" & Data$PictureName=="winterboot", c("Description")]
+1597420989405:# "black_boot"          "black_boot"          "black_coat"          "black_boot_with_fur"
+1597420989406:Data[Data$Dyad=="D06" & Data$PictureName=="winterboot" & Data$Description == "black_boot_with_fur", c("HeadNoun")] <- "boot"
+1597421001459:Data[Data$Dyad=="D07" & Data$PictureName=="winterboot", c("Description")]
+1597421031265:# "boot_with_fur" "boot_with_fur"
+1597421031265:Data[Data$Dyad=="D07" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597421088854:Data[Data$Dyad=="D09" & Data$PictureName=="winterboot", c("Description")]
+1597421124996:# "black_winter_boot_with_fuzzy"         "black_winter_boot_with_fuzzy_no_heel"
+1597421124998:# "flat_black_winter_boot_with_fuzzy"    "black_winter_boot"    "flat_black_winter_boot"
+1597421124999:Data[Data$Dyad=="D09" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597421140245:Data[Data$Dyad=="D10" & Data$PictureName=="winterboot", c("Description")]
+1597421182495:# "black_furry_boot"         "rainboots_with_fur"       "black_rainboots_with_fur"
+1597421182501:Data[Data$Dyad=="D10" & Data$PictureName=="winterboot", c("HeadNoun")] <- "rainboots"
+1597421205823:Data[Data$Dyad=="D10" & Data$PictureName=="winterboot" & Data$Description == "black_furry_boot", c("HeadNoun")] <- "boot"
+1597421273999:Data[Data$Dyad=="D10" & Data$PictureName=="winterboot", c("Description")]
+1597421310847:Data[Data$Dyad=="D11" & Data$PictureName=="winterboot", c("Description")]
+1597421346085:# "waterproof_boot_with_fur_around_it" "waterproof_boot"
+1597421346086:Data[Data$Dyad=="D11" & Data$PictureName=="winterboot" & Data$Description == "waterproof_boot_with_fur_around_it", c("HeadNoun")] <- "boot"
+1597421361773:Data[Data$Dyad=="D12" & Data$PictureName=="winterboot", c("Description")]
+1597421385573:# "boot_with_fur"       "black_boot"          "black_boot_with_fur"
+1597421385573:Data[Data$Dyad=="D12" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597421401941:Data[Data$Dyad=="D16" & Data$PictureName=="winterboot", c("Description")]
+1597421417133:# "black_boot_with_straps"      "black_boot_with_five_straps"
+1597421417134:Data[Data$Dyad=="D16" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597421430713:Data[Data$Dyad=="D17" & Data$PictureName=="winterboot", c("Description")]
+1597421456840:# "boot_with_fur" "fur_boot"
+1597421456841:Data[Data$Dyad=="D17" & Data$PictureName=="winterboot" & Data$Description == "boot_with_fur", c("HeadNoun")] <- "boot"
+1597421467417:Data[Data$Dyad=="D18" & Data$PictureName=="winterboot", c("Description")]
+1597421485930:# "black_fuzzy_boot"            "black_fuzzy_boot"            "black_boot_with_fuzz_on_top"
+1597421485931:Data[Data$Dyad=="D18" & Data$PictureName=="winterboot" & Data$Description == "black_boot_with_fuzz_on_top", c("HeadNoun")] <- "boot"
+1597421498533:Data[Data$Dyad=="D20" & Data$PictureName=="winterboot", c("Description")]
+1597421544325:# "winter_boots"        "black_winter_boots"          "black_winter_boots_with_fur"  "winter_boots_with_fur"
+1597421544331:Data[Data$Dyad=="D20" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boots"
+1597421547360:# "winter_boots"        "black_winter_boots"          "black_winter_boots_with_fur"  "winter_boots_with_fur"
+1597421547361:Data[Data$Dyad=="D20" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597421564725:Data[Data$Dyad=="D21" & Data$PictureName=="winterboot", c("Description")]
+1597421590447:# "winter_boot_with_fur_on_top_with_five_buckles"       "black_boot_with_fur_on_top_with_five_buckles"
+1597421590448:# "black_winter_boot_with_fur_on_top_with_five_buckles"
+1597421590453:Data[Data$Dyad=="D21" & Data$PictureName=="winterboot", c("HeadNoun")] <- "boot"
+1597428071863:##########################################################
+1597428071869:##################### wintercoat #########################
+1597428071869:Data[Data$Dyad=="D02" & Data$PictureName=="wintercoat", c("Description")]
+1597428128593:# "burgundy_coat"                                       "burgundy_winter_coat"    "violet_winter_coat"                                  "burgundy_winter_coat"
+1597428128599:# "burgundy_winter_coat_with_the_fur_around_the_collar" "burgundy_coat"               "burgundy_coat"
+1597428128599:Data[Data$Dyad=="D02" & Data$PictureName=="wintercoat" & Data$Description == "burgundy_winter_coat_with_the_fur_around_the_collar", c("HeadNoun")] <- "coat"
+1597428156704:Data[Data$Dyad=="D05" & Data$PictureName=="wintercoat", c("Description")]
+1597428216467:# "pink_ladies_parka"            "pinkish_red_parka_fur_at_top" "pinkish_red_parka_fur"
+1597428216473:Data[Data$Dyad=="D05" & Data$PictureName=="wintercoat", c("HeadNoun")] <- "parka"
+1597428231629:Data[Data$Dyad=="D09" & Data$PictureName=="wintercoat", c("Description")]
+1597428275009:# "purplish_winter_coat_with_fur_around_hood" "purplish_winter_coat_with_fur_around_hood"
+1597428275015:Data[Data$Dyad=="D09" & Data$PictureName=="wintercoat", c("HeadNoun")] <- "coat"
+1597428287298:Data[Data$Dyad=="D10" & Data$PictureName=="wintercoat", c("Description")]
+1597428321557:# "something_you_wear_in_the_winter"        "something_you_wear_in_the_winter"
+1597428321560:# "something_to_keep_you_warm_in_the_winter"  "something_to_keep_you_warm_in_the_winter_with_fur_around"
+1597428321560:Data[Data$Dyad=="D10" & Data$PictureName=="wintercoat", c("HeadNoun")] <- "something"
+1597428810144:Data[Data$Dyad=="D11" & Data$PictureName=="wintercoat", c("Description")]
+1597428841286:# "burgundy_female_winter_coat"          "burgundy_female_winter_coat_with_fur"
+1597428841286:Data[Data$Dyad=="D11" & Data$PictureName=="wintercoat" & Data$Description == "burgundy_female_winter_coat_with_fur", c("HeadNoun")] <- "coat"
+1597428970519:Data[Data$Dyad=="D14" & Data$PictureName=="wintercoat", c("Description")]
+1597428995136:# "red_coat"                       "coat_you_would_buy_me"          "that_red_coat_you_would_buy_me"
+1597428995136:Data[Data$Dyad=="D14" & Data$PictureName=="wintercoat", c("HeadNoun")] <- "coat"
+1597429006116:Data[Data$Dyad=="D19" & Data$PictureName=="wintercoat", c("Description")]
+1597429043943:# "purple_puff_up_coat"         "coat_with_fur_at_top"        "purple_coat_with_fur_at_top"
+1597429043944:Data[Data$Dyad=="D19" & Data$PictureName=="wintercoat", c("HeadNoun")] <- "coat"
+1597429058976:Data[Data$Dyad=="D21" & Data$PictureName=="wintercoat", c("Description")]
+1597429080691:# "purlish_maroon_parka_with_grey_fur_on_hood" "purpleish_redish_parka_with_fur_collar"
+1597429080697:Data[Data$Dyad=="D21" & Data$PictureName=="wintercoat", c("HeadNoun")] <- "parka"
+1597429149709:##########################################################
+1597429149714:###################### winterhat #########################
+1597429149714:Data[Data$Dyad=="D02" & Data$PictureName=="winterhat", c("Description")]
+1597429191168:# "blue_grey_winter_hat_with_ball_on_top" "blue_hat"    "blue_hat_with_the_ball_on_top" "blue_hat_with_the_ball_on_top"
+1597429191174:Data[Data$Dyad=="D02" & Data$PictureName=="winterhat", c("HeadNoun")] <- "hat"
+1597429217091:Data[Data$Dyad=="D09" & Data$PictureName=="winterhat", c("Description")]
+1597429237968:# "blue_hat_with_fuzzy_ball_on_top"         "blue_kitted_hat_with_little_fuzzy_thing"
+1597429237973:Data[Data$Dyad=="D09" & Data$PictureName=="winterhat", c("HeadNoun")] <- "hat"
+1597429249504:Data[Data$Dyad=="D12" & Data$PictureName=="winterhat", c("Description")]
+1597429297470:# "skully_hat_with_ball_on_top" "skully_hat"
+1597429297475:Data[Data$Dyad=="D12" & Data$PictureName=="winterhat" & Data$Description == "skully_hat_with_ball_on_top", c("HeadNoun")] <- "hat"
+1597429338978:Data[Data$Dyad=="D14" & Data$PictureName=="winterhat", c("Description")]
+1597429369522:# "winter_hat_with_ball_on_top_grey_light_blue_three_shades_of_blue"
+1597429369522:# "winter_hat_with_ball_at_top"
+1597429369527:# "winter_hat_with_ball_at_top_dark_blue_then_light_blue_then_grey"
+1597429369528:Data[Data$Dyad=="D14" & Data$PictureName=="winterhat", c("HeadNoun")] <- "hat"
+1597429381327:Data[Data$Dyad=="D16" & Data$PictureName=="winterhat", c("Description")]
+1597429408655:# "blue_wool_hat"           "blue_wool_hat"           "blue_wool_hat_with_puff" "blue_wool_hat"
+1597429408655:# "blue_hat"                "blue_hat"
+1597429408660:Data[Data$Dyad=="D16" & Data$PictureName=="winterhat" & Data$Description == "blue_wool_hat_with_puff", c("HeadNoun")] <- "hat"
+1597429421102:Data[Data$Dyad=="D17" & Data$PictureName=="winterhat", c("Description")]
+1597429441266:# "hat_with_fuzzy_on_top" "blue_puffy_hat"
+1597429441266:Data[Data$Dyad=="D17" & Data$PictureName=="winterhat" & Data$Description == "hat_with_fuzzy_on_top", c("HeadNoun")] <- "hat"
+1597429453799:Data[Data$Dyad=="D18" & Data$PictureName=="winterhat", c("Description")]
+1597429477028:# "fuzzy_hat_with_ball" "knitted_hat"
+1597429477029:Data[Data$Dyad=="D18" & Data$PictureName=="winterhat" & Data$Description == "fuzzy_hat_with_ball", c("HeadNoun")] <- "hat"
+1597429489873:Data[Data$Dyad=="D21" & Data$PictureName=="winterhat", c("Description")]
+1597429509033:# "blue_tricolor_hat_with_pompom" "blue_tricolor_hat_with_pompom"
+1597429509033:Data[Data$Dyad=="D21" & Data$PictureName=="winterhat", c("HeadNoun")] <- "hat"
+1597429517664:Data[Data$Dyad=="D22" & Data$PictureName=="winterhat", c("Description")]
+1597429582883:Data[Data$Dyad=="D05" & Data$PictureName=="woodenchair", c("Description")]
+1597429600194:##########################################################
+1597429600194:##################### woodenchair ########################
+1597429600200:Data[Data$Dyad=="D05" & Data$PictureName=="woodenchair", c("Description")]
+1597429647919:# "straight_backed_chair"                        "brown_straight_backed_chair"
+1597429647920:# "four_legged_brown_straight_backed_chair"      "brown_straight_back_four_legged_chair_with_x"
+1597429647922:# "x_back_brown_chair"
+1597429647922:Data[Data$Dyad=="D05" & Data$PictureName=="woodenchair" & Data$Description == "brown_straight_back_four_legged_chair_with_x", c("HeadNoun")] <- "chair"
+1597429662787:Data[Data$Dyad=="D10" & Data$PictureName=="woodenchair", c("Description")]
+1597429688422:# "something_you_sit_in" "kitchen_chair"        "wood_kitchen_chair"
+1597429688428:Data[Data$Dyad=="D10" & Data$PictureName=="woodenchair" & Data$Description == "something_you_sit_in", c("HeadNoun")] <- "something"
+1597429700220:Data[Data$Dyad=="D14" & Data$PictureName=="woodenchair", c("Description")]
+1597429746457:# "brown_chair_suitable_for_dining_room" "wooden_brown_chair_x_across_back"    "brown_dining_room_chair"
+1597429746482:Data[Data$Dyad=="D14" & Data$PictureName=="woodenchair", c("HeadNoun")] <- "chair"
+1597430946571:## Third, look at those cases where the s at the end of the word is at the end of the
+1597430946578:## description:
+1597430946578:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597430957552:Data$DescriptionCleanup <- str_replace_all(Data$Description, pattern="'s", "")
+1597430957590:## Second, look at the remaining cases with s before _
+1597430957591:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597430957596:## I can look at all of the cases (134) and list all the issues:
+1597430957596:## dress, swiss, vans, kiss, sleeveless, ladies, jesus. I'm going to delete those s and then
+1597430957596:## correct for those issues.
+1597430957596:## Third, look at those cases where the s at the end of the word is at the end of the
+1597430957597:## description:
+1597430957597:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597430957602:## In addition to 'kiss, 'dress', we have kisses, knives.
+1597430988293:## Fourth, delete those 's' at the end of descriptions, and at the end of words
+1597430988300:Data$DescriptionCleanup <- sub("s$", "", Data$DescriptionCleanup)
+1597430988302:Data$DescriptionCleanup <- gsub("s_", "_", Data$DescriptionCleanup)
+1597430988305:## Checking that these s have all been deleted.
+1597430988305:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597432531773:## Fourth, delete those 's' at the end of descriptions, and at the end of words
+1597432531779:Data$DescriptionCleanup <- sub("s$", "", Data$DescriptionCleanup)
+1597432531781:Data$DescriptionCleanup <- gsub("s_", "_", Data$DescriptionCleanup)
+1597432531784:## Checking that these s have all been deleted.
+1597432531784:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597432531786:## Fifth, fixing kisse and knive, kis, dres, jesu, ladie, sleeveles, van, swis
+1597432531786:Data$DescriptionCleanup <- gsub("knive", "knife", Data$DescriptionCleanup)
+1597432531789:Data$DescriptionCleanup <- gsub("kis_", "kiss_", Data$DescriptionCleanup)
+1597432531795:Data$DescriptionCleanup <- sub("kis$", "kiss", Data$DescriptionCleanup)
+1597432531799:Data$DescriptionCleanup <- gsub("kisse", "kiss", Data$DescriptionCleanup)
+1597432531803:Data$DescriptionCleanup <- gsub("dres", "dress", Data$DescriptionCleanup)
+1597432531806:Data$DescriptionCleanup <- gsub("jesu", "jesus", Data$DescriptionCleanup)
+1597432531808:Data$DescriptionCleanup <- gsub("ladie", "lady", Data$DescriptionCleanup)
+1597432531810:Data$DescriptionCleanup <- gsub("sleeveles", "sleeveless", Data$DescriptionCleanup)
+1597432531811:Data$DescriptionCleanup <- gsub("van", "vans", Data$DescriptionCleanup)
+1597432531814:Data$DescriptionCleanup <- gsub("swis", "swiss", Data$DescriptionCleanup)
+1597432531817:Data$DescriptionCleanup <- gsub("mis", "miss", Data$DescriptionCleanup)
+1597432531819:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597432531820:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597432531822:## Sixth, find all of the morphologically complex words and turn them into their stem.
+1597432531823:## BEGIN: Fixing typos on the data file (as opposed to the labels of the Textgrid themselves), April 30 2019
+1597432531823:## The next lines allow me to clean up the data. When I started working on getting a list of description types, I looked at them and noticed many cases where two
+1597432531824:## different types were listed even though they only differed on number or other morphological variations (e.g., long_sleeved_shirt vs. long_sleeve_shirt),
+1597432531824:## on treating a complex word as one word or a phrase (box_cutter vs. boxcutter).
+1597432531824:ddply(Data, .(PictureCode, Description), nrow)
+1597432531912:Data <- Data %>% mutate(Description= ifelse(Data$Description=="red_heels", "red_heel",
+1597432531912:ifelse(Data$Description=="red_high_heels", "red_high_heel",
+1597432531912:ifelse(Data$Description=="red_shoes", "red_shoe",
+1597432531912:ifelse(Data$Description=="church_shoes", "church_shoe",
+1597432531912:ifelse(Data$Description=="black_and_white_sneakers", "black_and_white_sneaker",
+1597432531913:ifelse(Data$Description=="sneakers", "sneaker",
+1597432531913:ifelse(Data$Description=="vans", "van",
+1597432531913:ifelse(Data$Description=="brown_sandals", "brown_sandal",
+1597432531913:ifelse(Data$Description=="sandals", "sandal",
+1597432531914:ifelse(Data$Description=="llong_sleeved_shirt", "long_sleeve_shirt",
+1597432531914:ifelse(Data$Description=="box_cutter", "boxcutter",
+1597432531914:ifelse(Data$Description=="Orange_box_cutter", "orange_boxcutter",
+1597432531914:ifelse(Data$Description=="switch_army_knife", "swiss_army_knife", as.character(Description)))))))))))))))
+1597432531947:## END: Fixing typos on the data file (as opposed to the labels of the Textgrid themselves), April 30 2019
+1597432531947:## BEGIN: Analyses of the description lengths on each mention, with the goal of trying to describe what people do
+1597432531948:## and how what they do changes between the 2 mentions
+1597432531948:Data$NbWordsInDescription <- (str_count(Data$Description, "_")) + 1
+1597432531951:## BEGIN: marking the description rank
+1597432531952:# Dealing with the fact that some trials were split into several (usually 2) portions; getting this information in so that the description rank can be chronologically ordered
+1597432531952:Data$TrialPortion <- ifelse(nchar(as.character(Data$Filename))==14, as.numeric(substr(Data$Filename, 14, 14)), 1)
+1597432531953:DataO <- ddply(Data[order(Data$Dyad, Data$TrialNbDesign, Data$TrialPortion, Data$Onset_sec), ],.(Dyad, TrialNbDesign),transform, DescripRank = order(TrialPortion, Onset_sec))
+1597432533018:## END: marking the description rank
+1597432533024:## trying to characterize what people are producing on those trials with more than 1 description.
+1597432533024:# How many descriptions are we talking about?
+1597432533024:nrow(DataO[DataO$DescripRank!="1", ])
+1597432533025:nrow(DataO)
+1597432533026:# 386 / 1662, 23% of descriptions produced were produced later in the trial.
+1597432533026:####################################################################
+1597432533026:## NAME DISPERSION / UNCERTAINTY FOR EACH CARD
+1597432533026:## How many description types were produced for each card,        ##
+1597432533027:## across all dyads?                                              ##
+1597432533027:## This may be taken as possible uncertainty on how to refer to   ##
+1597432533027:## that card, which should lead to more descriptions on mention 1 ##
+1597432533027:####################################################################
+1597432533027:## BEGIN: Creating a dataframe with a measure of naming / describing uncertainty for each picture.
+1597432533028:## I am using the measure U, presented in Lachman (1973), about uncertainty in naming pictures. The greater u, the more uncertainty in the description to
+1597432533028:## assign to the picture.
+1597432533028:DescriptionType <- ddply((ddply(Data, .(Dyad, PictureCode, PictureName, Description), nrow)), .(PictureCode, PictureName, Description), nrow)
+1597432533185:DescriptionType <- rename(DescriptionType, c("V1"="NbDyads"))
+1597432533185:# !!!!! ATTENTION: July 2020: I noticed what seems like a mistake: the description 'sandal'
+1597432533185:# was used for the dress shoes, S1A2.
+1597432533185:## Also: S1A3: "low_cut_unintelligable_school_sneakers"
+1597432533186:#              unintelligable's_first_low_cut_school_sneakers_last_year's
+1597432533186:#              unintelligable_school_sneakers
+1597432533186:#        S1B2: change tank top into tanktop (or vice versa?)
+1597432533186:DescriptionType_TEMP <- ddply(DescriptionType, .(PictureCode, PictureName), function(x){
+1597432533187:Total=sum(x$NbDyads)
+1597432533187:for(i in 1:nrow(x)){
+1597432533187:Prob=x[i, c("NbDyads")]/Total
+1597432533187:Problog = log2((x[i, c("NbDyads")]/Total))
+1597432533188:x[i, c("plog2p")]<- Prob*Problog
+1597432533188:x[i, c("TotalFreq")]<- Total
+1597432533188:}
+1597432533188:return(x)
+1597432533188:})
+1597432533266:PicDescription_Uncertainty<- ddply(DescriptionType_TEMP, .(PictureCode, PictureName), summarise, U=-(sum(plog2p)))
+1597432533336:write.table(PicDescription_Uncertainty, "PicDescription_Uncertainty_IlaStudyBooklet.txt")
+1597432549616:View(Data)
+1597536433156:Data$DescriptionCleanup <- gsub("dre", "dress", Data$DescriptionCleanup)
+1597670720815:Data[Data$Dyad=="D14" & Data$PictureName=="buttondown", c("Description")]
+1597671999275:Data[Data$Dyad=="D10" & Data$PictureName=="fancyboot", c("Description")]
+1597672189822:Data[Data$Dyad=="D17" & Data$PictureName=="fancyboot", c("Description")]
+1597672344653:Data[Data$Dyad=="D17" & Data$PictureName=="fancyboot", c("HeadNoun")] <- "boot"
+1597679941896:Data$DescriptionCleanup <- gsub("knive", "knife", Data$DescriptionCleanup)
+1597679941900:Data$DescriptionCleanup <- gsub("kis_", "kiss_", Data$DescriptionCleanup)
+1597679941902:Data$DescriptionCleanup <- sub("kis$", "kiss", Data$DescriptionCleanup)
+1597679941904:Data$DescriptionCleanup <- gsub("kisse", "kiss", Data$DescriptionCleanup)
+1597679941906:Data$DescriptionCleanup <- gsub("dres", "dress", Data$DescriptionCleanup)
+1597679941907:Data$DescriptionCleanup <- gsub("dre", "dress", Data$DescriptionCleanup)
+1597679941910:Data$DescriptionCleanup <- gsub("jesu", "jesus", Data$DescriptionCleanup)
+1597679941912:Data$DescriptionCleanup <- gsub("ladie", "lady", Data$DescriptionCleanup)
+1597679941915:Data$DescriptionCleanup <- gsub("sleeveles", "sleeveless", Data$DescriptionCleanup)
+1597679941918:Data$DescriptionCleanup <- gsub("van", "vans", Data$DescriptionCleanup)
+1597679941921:Data$DescriptionCleanup <- gsub("swis", "swiss", Data$DescriptionCleanup)
+1597679941923:Data$DescriptionCleanup <- gsub("mis", "miss", Data$DescriptionCleanup)
+1597679996982:Data$DescriptionCleanup <- gsub("ki", "kiss", Data$DescriptionCleanup)
+1597680069953:Data$DescriptionCleanup <- gsub("ki", "kiss", Data$DescriptionCleanup)
+1597680110308:Data$DescriptionCleanup <- gsub("knive", "knife", Data$DescriptionCleanup)
+1597680110311:Data$DescriptionCleanup <- gsub("kis_", "kiss_", Data$DescriptionCleanup)
+1597680110316:Data$DescriptionCleanup <- sub("kis$", "kiss", Data$DescriptionCleanup)
+1597680110317:Data$DescriptionCleanup <- gsub("kisse", "kiss", Data$DescriptionCleanup)
+1597680110319:Data$DescriptionCleanup <- gsub("dres", "dress", Data$DescriptionCleanup)
+1597680110321:Data$DescriptionCleanup <- gsub("dre", "dress", Data$DescriptionCleanup)
+1597680110323:Data$DescriptionCleanup <- gsub("jesu", "jesus", Data$DescriptionCleanup)
+1597680110326:Data$DescriptionCleanup <- gsub("ladie", "lady", Data$DescriptionCleanup)
+1597680110329:Data$DescriptionCleanup <- gsub("sleeveles", "sleeveless", Data$DescriptionCleanup)
+1597680110332:Data$DescriptionCleanup <- gsub("van", "vans", Data$DescriptionCleanup)
+1597680110335:Data$DescriptionCleanup <- gsub("swis", "swiss", Data$DescriptionCleanup)
+1597680110337:Data$DescriptionCleanup <- gsub("mis", "miss", Data$DescriptionCleanup)
+1597680148202:Data$DescriptionCleanup <- str_replace_all(Data$Description, pattern="'s", "")
+1597680148223:## Second, look at the remaining cases with s before _
+1597680148224:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597680148231:## I can look at all of the cases (134) and list all the issues:
+1597680148232:## dress, swiss, vans, kiss, sleeveless, ladies, jesus. I'm going to delete those s and then
+1597680148233:## correct for those issues.
+1597680148233:## Third, look at those cases where the s at the end of the word is at the end of the
+1597680148233:## description:
+1597680148233:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597680148236:## In addition to 'kiss, 'dress', we have kisses, knives.
+1597680148237:## Fourth, delete those 's' at the end of descriptions, and at the end of words
+1597680148237:Data$DescriptionCleanup <- sub("s$", "", Data$DescriptionCleanup)
+1597680148239:Data$DescriptionCleanup <- gsub("s_", "_", Data$DescriptionCleanup)
+1597680148241:## Checking that these s have all been deleted.
+1597680148241:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597680148242:## Fifth, fixing kisse and knive, kis, dres, jesu, ladie, sleeveles, van, swis
+1597680148242:Data$DescriptionCleanup <- gsub("knive", "knife", Data$DescriptionCleanup)
+1597680148244:Data$DescriptionCleanup <- gsub("kis_", "kiss_", Data$DescriptionCleanup)
+1597680148245:Data$DescriptionCleanup <- sub("kis$", "kiss", Data$DescriptionCleanup)
+1597680148247:Data$DescriptionCleanup <- gsub("kisse", "kiss", Data$DescriptionCleanup)
+1597680148248:Data$DescriptionCleanup <- gsub("dres", "dress", Data$DescriptionCleanup)
+1597680148250:Data$DescriptionCleanup <- gsub("dre", "dress", Data$DescriptionCleanup)
+1597680148251:Data$DescriptionCleanup <- gsub("jesu", "jesus", Data$DescriptionCleanup)
+1597680148252:Data$DescriptionCleanup <- gsub("ladie", "lady", Data$DescriptionCleanup)
+1597680148254:Data$DescriptionCleanup <- gsub("sleeveles", "sleeveless", Data$DescriptionCleanup)
+1597680148255:Data$DescriptionCleanup <- gsub("van", "vans", Data$DescriptionCleanup)
+1597680148257:Data$DescriptionCleanup <- gsub("swis", "swiss", Data$DescriptionCleanup)
+1597680148258:Data$DescriptionCleanup <- gsub("mis", "miss", Data$DescriptionCleanup)
+1597680148259:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597680148261:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597680671787:Data[Data$Dyad=="D14" & Data$PictureName=="highheel", c("Description")]
+1597681723533:Data[Data$Dyad=="D14" & Data$PictureName=="kitchenknife", c("Description")]
+1597702959676:Data[Data$Dyad=="D14" & Data$PictureName=="metalchair", c("Description")]
+1597703206805:Data[Data$Dyad=="D05" & Data$PictureName=="officechair", c("Description")]
+1597703415671:Data[Data$Dyad=="D04" & Data$PictureName=="peacoat", c("Description")]
+1597704160229:Data[Data$Dyad=="D21" & Data$PictureName=="rainboot", c("Description")]
+1597704257245:Data[Data$Dyad=="D10" & Data$PictureName=="rainboot", c("Description")]
+1597758768000:Data[Data$Dyad=="D05" & Data$PictureName=="swissarmyknife", c("Description")]
+1597758933014:Data[Data$Dyad=="D14" & Data$PictureName=="swissarmyknife", c("Description")]
+1597759396140:Data[Data$Dyad=="D14" & Data$PictureName=="tanktop" & Data$Description == "pink_female_tshirt_no_sleeves", c("HeadNoun")] <- "tshirt"
+1597759533195:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "cutter", c("HeadNoun")] <- "carpet_cutter_knife_orange"
+1597759535622:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "carpet_cutter_knife_orange", c("HeadNoun")] <- "knife"
+1597759583661:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "cutter", c("Description")] <- "carpet_cutter_knife_orange"
+1597759586723:Data[Data$Dyad=="D02" & Data$PictureName=="utilityknife" & Data$Description == "carpet_cutter_knife_orange", c("HeadNoun")] <- "knife"
+1597762740338:Data[Data$Dyad=="D14" & Data$PictureName=="swissarmyknife", c("Description")]
+1597762753328:Data[Data$Dyad=="D10" & Data$PictureName=="wintercoat", c("Description")]
+1597763189287:Data[Data$Dyad=="D14" & Data$PictureName=="winterhat", c("Description")]
+1597889671598:## Fifth, fixing kisse and knive, kis, dres, jesu, ladie, sleeveles, van, swis
+1597889671604:Data$DescriptionCleanup <- gsub("knive", "knife", Data$DescriptionCleanup)
+1597889671610:Data$DescriptionCleanup <- gsub("kis_", "kiss_", Data$DescriptionCleanup)
+1597889671614:Data$DescriptionCleanup <- sub("kis$", "kiss", Data$DescriptionCleanup)
+1597889671617:Data$DescriptionCleanup <- gsub("kisse", "kiss", Data$DescriptionCleanup)
+1597889671623:Data$DescriptionCleanup <- gsub("dres", "dress", Data$DescriptionCleanup)
+1597889671627:Data$DescriptionCleanup <- gsub("dre", "dress", Data$DescriptionCleanup)
+1597889671631:Data$DescriptionCleanup <- gsub("jesu", "jesus", Data$DescriptionCleanup)
+1597889671633:Data$DescriptionCleanup <- gsub("ladie", "lady", Data$DescriptionCleanup)
+1597889671635:Data$DescriptionCleanup <- gsub("sleeveles", "sleeveless", Data$DescriptionCleanup)
+1597889671637:Data$DescriptionCleanup <- gsub("van", "vans", Data$DescriptionCleanup)
+1597889671640:Data$DescriptionCleanup <- gsub("swis", "swiss", Data$DescriptionCleanup)
+1597889671643:Data$DescriptionCleanup <- gsub("mis", "miss", Data$DescriptionCleanup)
+1597889671645:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597889671649:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597889671653:## Sixth, find all of the morphologically complex words and turn them into their stem.
+1597889671655:## BEGIN: Fixing typos on the data file (as opposed to the labels of the Textgrid themselves), April 30 2019
+1597889671655:## The next lines allow me to clean up the data. When I started working on getting a list of description types, I looked at them and noticed many cases where two
+1597889671655:## different types were listed even though they only differed on number or other morphological variations (e.g., long_sleeved_shirt vs. long_sleeve_shirt),
+1597889671656:## on treating a complex word as one word or a phrase (box_cutter vs. boxcutter).
+1597889671656:ddply(Data, .(PictureCode, Description), nrow)
+1597889671775:Data <- Data %>% mutate(Description= ifelse(Data$Description=="red_heels", "red_heel",
+1597889671775:ifelse(Data$Description=="red_high_heels", "red_high_heel",
+1597889671776:ifelse(Data$Description=="red_shoes", "red_shoe",
+1597889671776:ifelse(Data$Description=="church_shoes", "church_shoe",
+1597889671776:ifelse(Data$Description=="black_and_white_sneakers", "black_and_white_sneaker",
+1597889671776:ifelse(Data$Description=="sneakers", "sneaker",
+1597889671777:ifelse(Data$Description=="vans", "van",
+1597889671777:ifelse(Data$Description=="brown_sandals", "brown_sandal",
+1597889671777:ifelse(Data$Description=="sandals", "sandal",
+1597889671777:ifelse(Data$Description=="llong_sleeved_shirt", "long_sleeve_shirt",
+1597889671778:ifelse(Data$Description=="box_cutter", "boxcutter",
+1597889671778:ifelse(Data$Description=="Orange_box_cutter", "orange_boxcutter",
+1597889671778:ifelse(Data$Description=="switch_army_knife", "swiss_army_knife", as.character(Description)))))))))))))))
+1597889706392:Data$DescriptionCleanup <- gsub("striped", "stripe", Data$DescriptionCleanup)
+1597889748158:Data$DescriptionCleanup <- gsub("stripey", "stripe", Data$DescriptionCleanup)
+1597889881136:Data$DescriptionCleanup <- gsub("_ish", "_", Data$DescriptionCleanup)
+1597889970523:Data$DescriptionCleanup <- gsub("ish", "", Data$DescriptionCleanup)
+1597890035005:Data$DescriptionCleanup <- gsub("goldf", "goldfish", Data$DescriptionCleanup)
+1597890061466:Data$DescriptionCleanup <- gsub("purpl", "purple", Data$DescriptionCleanup) # Fix "purplish"
+1597890309438:Data$DescriptionCleanup <- str_replace_all(Data$Description, pattern="'s", "")
+1597890309459:## Second, look at the remaining cases with s before _
+1597890309459:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597890309466:## I can look at all of the cases (134) and list all the issues:
+1597890309466:## dress, swiss, vans, kiss, sleeveless, ladies, jesus. I'm going to delete those s and then
+1597890309466:## correct for those issues.
+1597890309467:## Third, look at those cases where the s at the end of the word is at the end of the
+1597890309467:## description:
+1597890309468:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597890309472:## In addition to 'kiss, 'dress', we have kisses, knives.
+1597890309472:## Fourth, delete those 's' at the end of descriptions, and at the end of words
+1597890309472:Data$DescriptionCleanup <- sub("s$", "", Data$DescriptionCleanup)
+1597890309475:Data$DescriptionCleanup <- gsub("s_", "_", Data$DescriptionCleanup)
+1597890309478:## Checking that these s have all been deleted.
+1597890309478:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597890309479:## Fifth, fixing kisse and knive, kis, dres, jesu, ladie, sleeveles, van, swis
+1597890309479:Data$DescriptionCleanup <- gsub("knive", "knife", Data$DescriptionCleanup)
+1597890309481:Data$DescriptionCleanup <- gsub("kis_", "kiss_", Data$DescriptionCleanup)
+1597890309482:Data$DescriptionCleanup <- sub("kis$", "kiss", Data$DescriptionCleanup)
+1597890309484:Data$DescriptionCleanup <- gsub("kisse", "kiss", Data$DescriptionCleanup)
+1597890309486:Data$DescriptionCleanup <- gsub("dres", "dress", Data$DescriptionCleanup)
+1597890309489:Data$DescriptionCleanup <- gsub("dre", "dress", Data$DescriptionCleanup)
+1597890309492:Data$DescriptionCleanup <- gsub("jesu", "jesus", Data$DescriptionCleanup)
+1597890309494:Data$DescriptionCleanup <- gsub("ladie", "lady", Data$DescriptionCleanup)
+1597890309495:Data$DescriptionCleanup <- gsub("sleeveles", "sleeveless", Data$DescriptionCleanup)
+1597890309497:Data$DescriptionCleanup <- gsub("van", "vans", Data$DescriptionCleanup)
+1597890309498:Data$DescriptionCleanup <- gsub("swis", "swiss", Data$DescriptionCleanup)
+1597890309500:Data$DescriptionCleanup <- gsub("mis", "miss", Data$DescriptionCleanup)
+1597890309502:grep("s_", Data$DescriptionCleanup, value = TRUE)
+1597890309504:Data[grep("s", str_sub(Data$DescriptionCleanup, -1, -1)), c("DescriptionCleanup")]
+1597890309506:## Sixth, find all of the morphologically complex words and turn them into their stem.
+1597890309507:Data$DescriptionCleanup <- gsub("striped", "stripe", Data$DescriptionCleanup)
+1597890309509:Data$DescriptionCleanup <- gsub("stripey", "stripe", Data$DescriptionCleanup)
+1597890605557:Data <- Data %>% mutate(Description= ifelse(Data$Description=="red_heels", "red_heel",
+1597890605565:ifelse(Data$Description=="red_high_heels", "red_high_heel",
+1597890605565:ifelse(Data$Description=="red_shoes", "red_shoe",
+1597890605565:ifelse(Data$Description=="church_shoes", "church_shoe",
+1597890605565:ifelse(Data$Description=="black_and_white_sneakers", "black_and_white_sneaker",
+1597890605566:ifelse(Data$Description=="sneakers", "sneaker",
+1597890605567:ifelse(Data$Description=="vans", "van",
+1597890605567:ifelse(Data$Description=="brown_sandals", "brown_sandal",
+1597890605569:ifelse(Data$Description=="sandals", "sandal",
+1597890605569:ifelse(Data$Description=="llong_sleeved_shirt", "long_sleeve_shirt",
+1597890605570:ifelse(Data$Description=="box_cutter", "boxcutter",
+1597890605570:ifelse(Data$Description=="Orange_box_cutter", "orange_boxcutter",
+1597890605571:ifelse(Data$Description=="purlish_maroon_parka_with_grey_fur_on_hood", "purplish_maroon_parka_with_grey_fur_on_hood",
+1597890605572:ifelse(Data$Description=="purpleish_redish_parka_with_fur_collar", "purplish_redish_parka_with_fur_collar",
+1597890605572:ifelse(Data$Description=="switch_army_knife", "swiss_army_knife", as.character(Description))))))))))))))))))
+1597890649317:ddply(Data, .(PictureCode, Description), nrow)
+1597890649427:Data <- Data %>% mutate(Description= ifelse(Data$Description=="red_heels", "red_heel",
+1597890649427:ifelse(Data$Description=="red_high_heels", "red_high_heel",
+1597890649427:ifelse(Data$Description=="red_shoes", "red_shoe",
+1597890649428:ifelse(Data$Description=="church_shoes", "church_shoe",
+1597890649428:ifelse(Data$Description=="black_and_white_sneakers", "black_and_white_sneaker",
+1597890649428:ifelse(Data$Description=="sneakers", "sneaker",
+1597890649429:ifelse(Data$Description=="vans", "van",
+1597890649429:ifelse(Data$Description=="brown_sandals", "brown_sandal",
+1597890649430:ifelse(Data$Description=="sandals", "sandal",
+1597890649430:ifelse(Data$Description=="llong_sleeved_shirt", "long_sleeve_shirt",
+1597890649430:ifelse(Data$Description=="box_cutter", "boxcutter",
+1597890649431:ifelse(Data$Description=="Orange_box_cutter", "orange_boxcutter",
+1597890649431:ifelse(Data$Description=="purlish_maroon_parka_with_grey_fur_on_hood", "purplish_maroon_parka_with_grey_fur_on_hood",
+1597890649432:ifelse(Data$Description=="purpleish_redish_parka_with_fur_collar", "purplish_redish_parka_with_fur_collar",
+1597890649432:ifelse(Data$Description=="switch_army_knife", "swiss_army_knife", as.character(Description)))))))))))))))))
+1597890713887:Data$DescriptionCleanup <- gsub("thingish", "thing", Data$DescriptionCleanup)
+1597890713894:Data$DescriptionCleanup <- gsub("brownish", "brown", Data$DescriptionCleanup)
+1597890713896:Data$DescriptionCleanup <- gsub("redish", "red", Data$DescriptionCleanup)
+1597890713899:Data$DescriptionCleanup <- gsub("tannish", "tan", Data$DescriptionCleanup)
+1597890713901:Data$DescriptionCleanup <- gsub("blackish", "black", Data$DescriptionCleanup)
+1597890713906:Data$DescriptionCleanup <- gsub("greenish", "green", Data$DescriptionCleanup)
+1597890713913:Data$DescriptionCleanup <- gsub("pinkish", "pink", Data$DescriptionCleanup)
+1597890713917:Data$DescriptionCleanup <- gsub("purplish", "purple", Data$DescriptionCleanup)
+1597890798228:Data$DescriptionCleanup <- gsub("purlish", "purplish", Data$DescriptionCleanup)
+1597890809529:Data$DescriptionCleanup <- gsub("purlish", "purplish", Data$DescriptionCleanup)
+1597890809531:Data$DescriptionCleanup <- gsub("purpleish", "purple", Data$DescriptionCleanup)
+1597890809537:Data$DescriptionCleanup <- gsub("purplish", "purple", Data$DescriptionCleanup)
+1597941848902:Data$DescriptionCleanup <- gsub("furry", "fur", Data$DescriptionCleanup)
+1597941877129:Data$DescriptionCleanup <- gsub("wooden", "wood", Data$DescriptionCleanup)
+1597941928579:Data$DescriptionCleanup <- gsub("sleeved", "sleeve", Data$DescriptionCleanup)
+1597941972471:Data$DescriptionCleanup <- gsub("toed", "toe", Data$DescriptionCleanup)
+1597942061110:Data$DescriptionCleanup <- gsub("fuzzy", "fuzz", Data$DescriptionCleanup)
+1597942102629:Data$DescriptionCleanup <- gsub("backed", "back", Data$DescriptionCleanup)
+1597942129023:Data$DescriptionCleanup <- gsub("knitted", "knit", Data$DescriptionCleanup)
+1597942188014:Data$DescriptionCleanup <- gsub("thingy", "thing", Data$DescriptionCleanup)
+1597942254412:Data$DescriptionCleanup <- gsub("folding", "fold", Data$DescriptionCleanup)
+1597942257096:Data$DescriptionCleanup <- gsub("foldable", "fold", Data$DescriptionCleanup)
+1597942302027:Data$DescriptionCleanup <- gsub("hiker", "hike", Data$DescriptionCleanup)
+1597942306275:Data$DescriptionCleanup <- gsub("hiking", "hike", Data$DescriptionCleanup)
+1597942338261:Data$DescriptionCleanup <- gsub("beachy", "beach", Data$DescriptionCleanup)
+1597942346610:Data$DescriptionCleanup <- gsub("gardening", "garden", Data$DescriptionCleanup)
+1597942353096:Data$DescriptionCleanup <- gsub("gardener", "garden", Data$DescriptionCleanup)
+1597942389768:Data$DescriptionCleanup <- gsub("comfy", "comfortable", Data$DescriptionCleanup)
+1597942426568:Data$DescriptionCleanup <- gsub("skully", "skull", Data$DescriptionCleanup)

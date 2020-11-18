@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="net.sf.eclipsecs.source" version="8.12.0.201808161509" plugin="net.sf.eclipsecs.branding" label="%feature.label" provider-name="%feature.provider_name">
+  <includes id="net.sf.eclipsecs" version="8.12.0.201808161509"/>
+  <description url="%description.url">
+      %description.text
+   </description>
+  <copyright>
+      %copyright.text
+   </copyright>
+  <license url="license.html">
+      %license.text
+   </license>
+  <plugin id="net.sf.eclipsecs.core.source" version="8.12.0.201808161509" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="net.sf.eclipsecs.checkstyle.source" version="8.12.0.201808161509" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="net.sf.eclipsecs.ui.source" version="8.12.0.201808161509" download-size="0" install-size="0" unpack="false"/>
+</feature>

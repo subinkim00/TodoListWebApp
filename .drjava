@@ -1,0 +1,19 @@
+#DrJava configuration file
+#Sun Apr 05 18:58:10 EDT 2020
+extra.classpath = /Users/subinkim/Documents/CIS 110/cis110.jar
+right.margin.columns = 80
+lineenum.enabled = true
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+interactions.exit.prompt = false
+save.before.compile = true
+recent.files = [/Users/subinkim/Desktop/CIS 110 HW/hw09/Sudoku.java,/Users/subinkim/Desktop/CIS 110 HW/hw05/assignment_package/Target.java,/Users/subinkim/Desktop/CIS 110 HW/hw05/assignment_package/IrateAvians2.java,/Users/subinkim/Desktop/CIS 110 HW/hw05/assignment_package/Arena.java,/Users/subinkim/Desktop/CIS 110 HW/hw06/MandolinString.java]
+window.height = 823
+window.width = 776
+window.x = 664
+window.y = 24
+doc.list.width = 129
+last.dir = /Users/subinkim/Desktop/CIS 110 HW/hw09
+last.interactions.dir = /Users/subinkim/Desktop/CIS 110 HW/hw05/assignment_package
+tabbedpanes.state = 720 450 700 400
+new.version.notification.last = 1586127361209

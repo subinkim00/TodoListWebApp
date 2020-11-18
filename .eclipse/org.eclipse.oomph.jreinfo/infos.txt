@@ -1,0 +1,2 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre:1:8:0:64:false:1562241825000
+/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home:1:8:0:64:true:1562241757000

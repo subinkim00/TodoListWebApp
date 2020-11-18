@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	email = subinkim@sas.upenn.edu
+# Please adapt and uncomment the following lines:
+#	name = Subin Kim
+#	email = subinkim@SubinuicBookPro.lan

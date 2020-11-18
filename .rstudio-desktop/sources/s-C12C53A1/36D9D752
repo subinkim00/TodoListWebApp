@@ -1,0 +1,32 @@
+{
+    "id": "36D9D752",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1597420710526.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "ToCheckHeadNouns",
+        "caption": "ToCheckHeadNouns",
+        "totalObservations": 640,
+        "displayedObservations": 640,
+        "variables": 3,
+        "cacheKey": "396E7964",
+        "object": "ToCheckHeadNouns",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=ToCheckHeadNouns&cache_key=396E7964&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1597420702,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597420710526,
+    "read_only": false,
+    "read_only_alternatives": []
+}

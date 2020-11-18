@@ -1,0 +1,64 @@
+// IMPLEMENT YOUR FUNCTIONS HERE
+// PLEASE USE ES6 features:
+// 1) Template Literals instead of string concatenation
+// 2) forEach arrow function instead of regular for loop
+// 3) use arrow functions for declaration
+// 4) use object destructuring
+
+
+// TODO: merge city, province, and country together
+// into a single field called location with the format "city, province, country"
+// e.g. if an record has city = "c", province = "p", and country = "co",
+// there should be a new field location = "c, p, co"
+// You should also delete city, province, and country fields from the records
+
+// Input: the array of COVID patient records you generated in index.js
+// Output: an array of COVID patient records with the location merged as specified
+// YOU SHOULD NOT INCLUDE ANY INVALID CITY, PROVINCE, OR COUNTRY NAME
+
+
+// TODO: decide which age group has the most confirmed case
+// Input: the array of COVID patient records you generated in index.js
+// Output: a string of the age group (e.g. '50s')
+
+// SKIP RECORDS WHICH DO NOT HAVE AGE GROUP SPECIFIED
+// YOU CAN ASSUME THAT THERE IS NO TIES
+
+
+
+// TODO: for those who are confirmed and released,
+// compute on average how long does it take to recover
+// Input: the array of COVID patient records you generated in index.js
+// Output: the average time of recovery in days, rounded down to the nearest integer
+// You should do the round down at the last step of computation
+
+// SKIP RECORDS WHICH DO NOT HAVE A RELEASED DATE
+
+
+
+// TODO: out of all the VALID records present in the CSV file,
+// compute the percentages of
+// 1) males that are released
+// 2) males that are deceased
+// 3) males that are isolated
+// 4) females that are released
+// 5) females that are deceased
+// 6) females that are isolated
+// Input: the array of COVID patient records you generated in index.js
+// Output: an dictionary of the following format, the percentages should be rounded to integers
+// e.g. if percentage of males that are released is 1.123%, your final answer should be 1
+/*  {
+      male_released: 1,
+      female_released: 1,
+      male_isolated: 1,
+      female_isolated: 1,
+      female_deceased: 1,
+      male_deceased: 1
+    }    
+ *
+ */
+
+// SKIP ALL RECORDS THAT DO NOT HAVE SEX OR STATE SPECIFIED, ALL OTHER RECORDS ARE VALID
+
+
+// TODO: export your functions HERE
